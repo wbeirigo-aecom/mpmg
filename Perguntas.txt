@@ -1,0 +1,72 @@
+
+
+
+
+Questionário:
+
+	1) A estrtura de TI suporta instalação de contêineres docker?
+	2) O sistema estará hospedado dentro da infraestrtura de TI do Ministério Público?
+	2) É possível que o sistema seja autenticado pelo serviço de autenticação do MPMG?
+	3) Os peritos são cadastrados no sistema de autenticação do MPF?
+	4) Podemos assumir como premissa que todos os peritos devem possuir Smarthphone, com versão posterior a  versão 11 lançada em 8/9/2020?
+	5) O documento final, resultado pericia precisa de:
+			Certificado digital
+			Marca d`água
+			Data/Hora/Usuário que imprimiu
+
+
+- Atributos do questionário:
+	id_processo
+	id_perito
+	data_envio_ao_perito
+	data_limite_retorno
+	data preenchimento
+	local preenchimento
+	data_confirmação
+
+- Observabilidade
+	Envio e-mail questionários por vencer
+
+- Solução
+	Kobotolbox:
+		Criação do questionário
+		Envio para o celular do entrevistador
+		Recebimento
+
+
+- Requisitos
+	Funcionais
+	- Questões
+			Multipla escolha
+			Única escolha
+			Fotos
+			Campo livre
+			Pergunta com depedência de prguntas anteriores
+			Campos ocultos referentes ao local de preenchimento:
+				geolocalização (lat/log)
+				Data/hora
+
+	- Quanto ao documento
+		Exigências técnicas do documento
+
+
+	Não funcionais
+		O preenchimento do questionário deve ser realizado ainda que não exite conexão com a Internet disponível
+		A solução deve estar hospedado na infraestrutura de TI do MPMG
+		Os smartphones devem possuir a versão Android 12 ao superior
+
+
+
+ODK
+
+Os formulários ODK (Open Data Kit) são ferramentas estruturadas usadas para coleta de dados. Eles são geralmente utilizados por coletores de dados, também conhecidos como enumeradores, que usam o aplicativo ODK Collect para fazer perguntas e reunir informações dos participantes. Esses formulários também podem ser usados para auto-relato através de formulários web.
+
+Os formulários ODK são versáteis e podem ser usados para diversos fins, como:
+
+Realização de pesquisas socioeconômicas
+Coleta de dados georreferenciados
+Registro de multimídia para identificação
+Orientação de trabalhadores de saúde através de protocolos
+Fornecimento de treinamento baseado em respostas
+
+Os formulários são projetados usando campos que coletam ou exibem informações. Esses campos podem representar perguntas, ser agrupados, repetidos e incluir lógica para criar fluxos de trabalho poderosos. A maioria dos usuários projeta seus formulários usando XLSForm com ferramentas como Google Sheets ou Excel.
