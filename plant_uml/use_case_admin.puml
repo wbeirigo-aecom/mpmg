@@ -1,0 +1,28 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor Administrador as adm
+rectangle MPMG {
+    USECASE "**RF001** - Cadastrar e manter questionários" as RF001
+    USECASE "**RF002** - Cadastrar e manter temas" as RF002
+    USECASE "**RF003** - Cadastrar e manter peritos" as RF003
+    USECASE "**RF005** - Solicitar laudo" as RF005
+    USECASE "**RF008** - Alterar data-limite do laudo" as RF008
+    USECASE "**RF010** - Formalizar laudos" as RF010
+    USECASE "RF013 -  Integração com bases do IBGE, DataSus, MAPA, SEI, Medeley" as RF013
+    USECASE "RF014 -  Dashboard" as RF014
+    USECASE "RF016 -  Mapa dos locais da perícia" as RF016
+    USECASE "RF021 -  Padronização do cabeçalho de laudos" as RF021
+}
+adm -right-> RF001
+adm -right-> RF002
+adm -right-> RF003
+adm -right-> RF005
+adm -right-> RF008
+adm -right-> RF010
+adm -right-> RF013
+adm -right-> RF014
+adm -right-> RF016
+adm --> RF021
+}
+@enduml

@@ -1,0 +1,32 @@
+@startsalt  pesquisa
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Cadastrar Tema
+header MPMG
+caption Sistema de Perícia MPMG
+{
+    .
+    {
+    ID | 0101
+    .
+    Descrição | "      "
+    .
+    Questionário | { | ^eiusmod^^eiusmod^^eiusmod^}
+    .
+    .
+    Template | "                                "
+    . | "                                "
+    . | "                                "
+    . | "                                "
+    . | "                                "
+    .
+    }
+    .
+    {[Salvar] | [Canelar] }
+    .
+}
+@endsalt

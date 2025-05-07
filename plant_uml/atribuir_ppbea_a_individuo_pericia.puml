@@ -1,0 +1,36 @@
+
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Atribuir PPBEA à Indivíduos da Perícia
+header MPMG
+caption Sistema de Perícia MPMG
+{
+
+    {#
+        **Indivíduo** | **ID PPBEA** | **Ações**
+        21312321 | wewqeqwe | {[Editar] | [Excluir]}
+        21312321 | wewqeqwe | {[Editar] | [Excluir]}
+        21312321 | wewqeqwe | {[Editar] | [Excluir]}
+        21312321 | wewqeqwe | {[Editar] | [Excluir]}
+
+    }
+    .
+    .
+    {^
+        **Indivíduo** | "     "
+        **ID PPBEA** | "     "
+
+        {[Adicionar]}
+
+    }
+    ;
+    [Cancelar]
+                .
+
+}
+@endsalt

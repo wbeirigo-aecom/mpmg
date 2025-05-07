@@ -1,0 +1,64 @@
+
+@startsalt  tela_questionario
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Tela de Questionário
+header MPMG
+caption Sistema de Perícia MPMG
+{
+    {^**Laudo N°** <color:blue>**2323-25**
+        **Descrição**: consectetur adipiscing elit, sed do eiusmod
+        .
+        **Tema**: Lorem ipsum dolor sit amet | **Status**: eiusmod tempor
+        .
+        **Data de Cadastro**: 01/04/2025 | <color:red>**Data limite**: 02/05/2025
+        .
+        **Localização**: consectetur - adipiscing - el. |  **Última alteração**: 28/03/2025 20:35
+        .
+        .
+        {^ **Peritos**
+            35435345 - Lorem ipsum dolor sit amet
+            3332232  - Lorem ipsum dolor sit amet
+        }
+        .
+        **Data da perícia:** dd/mm/yyyy
+        .
+    }
+    .
+    .
+    {+
+        {2 - **Lorem ipsum dolor sit amet, consectetur adipiscing** <&info>}
+        [X]  Duis aute irure dolor in reprehenderit
+        [X]  Duis aute irure dolor in reprehenderit
+        [ ]  Duis aute irure dolor in reprehenderit
+    }
+    .
+    {+
+        {3 - **Lorem ipsum dolor sit amet, consectetur adipiscing** <&info>}
+        ( )  Duis aute irure dolor in reprehenderit
+        ( )  Duis aute irure dolor in reprehenderit
+        (X)  Duis aute irure dolor in reprehenderit
+    }
+        .
+    {+
+        {3 - **Lorem ipsum dolor sit amet, consectetur adipiscing** <&info>}
+        "__" [0 - 100]
+    }
+    .
+    {+
+        {3 - **Lorem ipsum dolor sit amet, consectetur adipiscing** <&info>}
+        "dd/mm/yyyy"
+    }
+    .
+    {+
+        {3 - **Lorem ipsum dolor sit amet, consectetur adipiscing** <&info>}
+        "de dd/mm/yyyy até dd/mm/yyyy"
+    }
+                .
+        {[Salvar] | [Cancelar]}
+}
+@endsalt

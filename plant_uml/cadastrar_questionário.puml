@@ -1,0 +1,27 @@
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Cadastrar Questionário
+header MPMG
+caption Sistema de Perícia MPMG
+{
+
+***iD** | "   "
+.
+***Nome** | "              "
+.
+***Tema**  | ^aaaa^^bbbb^^cccc^
+.
+.
+.
+***Formulário**| "                           "
+.|"                           "
+.|"                           "
+.
+{ [Salvar] | [Cancelar] }
+}
+@endsalt

@@ -1,0 +1,22 @@
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Grid de Perícia
+header MPMG
+caption Sistema de Perícia MPMG
+{
+[<color:red>Solicitar nova perícia]
+{#
+**Número** | **Descrição** | **Denunciado**| **Tema**    | **Ocorrência** | **Limite** | **Peritos** | **Status** | **Ações**
+000001-25  | Lorem ipsum   | Lorem ipsum   | ipsum dolor | 01/01/0001     | 01/01/0001 | sit amet    | Ativo      | { [Solic Alt Dt Limite] | [Check-list] | [<color:red>Alterar data] | [Editar] | [<color:red>Formalizar] }
+000001-25  | Lorem ipsum   | Lorem ipsum   | ipsum dolor | 01/01/0001     | 01/01/0001 | sit amet    | Ativo      | { [Solic Alt Dt Limite] | [Check-list] | [<color:red>Alterar data] | [Editar] | [<color:red>Formalizar] }
+000001-25  | Lorem ipsum   | Lorem ipsum   | ipsum dolor | 01/01/0001     | 01/01/0001 | sit amet    | Ativo      | { [Solic Alt Dt Limite] | [Check-list] | [<color:red>Alterar data] | [Editar] | [<color:red>Formalizar] }
+}
+.
+.
+}
+@endsalt

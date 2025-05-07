@@ -1,0 +1,36 @@
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Cadastrar Citação
+header AECOM
+footer Sistema de Perícia MPMG
+caption CoE AECOM
+{
+.
+***Nome**: | "              "
+.
+***Fonte** | "           "
+.
+***Tipo**  | ^Notícia^^Lei^Portaria Municipial^Portaria Estadual^
+.
+.
+.
+***URL:**  | "         "
+.
+***Data**  | "99/99/99"
+.
+***Tema**  | ^aaaa^^bbbb^^cccc^
+.
+.
+.
+***Descrição**| "                           "
+.|"                           "
+.|"                           "
+.
+{ [Salvar] | [Cancelar] }
+}
+@endsalt

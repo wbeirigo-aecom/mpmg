@@ -1,0 +1,24 @@
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Anexar documento
+header MPMG
+caption Sistema de Perícia MPMG
+{
+        {^**Documentos anexos:**
+            .
+            {#
+                Identificação | Tipo       | Descrição   | Link
+                Q020_ABI      | Imagem     | value 1     | htts://exemple.com.br/3409238uywqew
+                Q087_GKS      | PDF        | A long cell | htts://exemple.com.br/3409238uywqew
+                Vídeo         | Vídeo      | sdsds       | htts://exemple.com.br/3409238uywqew
+            }
+            .
+            [ Adicionar Documento]
+        }
+}
+@endsalt

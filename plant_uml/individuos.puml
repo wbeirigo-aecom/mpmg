@@ -1,0 +1,24 @@
+@startsalt  tela_questionario
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Tela Indivíduos
+header MPMG
+caption Sistema de Perícia MPMG
+{
+    {^ **Indivíduos**:
+        .
+        {#
+            Identificação | Espécie    | Sexo        | Observações
+            AQW45EO       | Bovino     | value 1     | uywqew
+            Q087_GKS      | Cão        | A long cell | uywqew
+            Vídeo         | Gato       | sdsds       | 3409238uywqew
+        }
+        .
+        [Importar de arquivo Excel]
+    }
+}
+@endsalt

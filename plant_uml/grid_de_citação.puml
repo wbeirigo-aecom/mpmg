@@ -1,0 +1,24 @@
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Grid de Citação
+header AECOM
+footer Sistema de Perícia MPMG
+caption CoE AECOM
+{
+    [Nova Citação]
+    {#
+    **ID** | **Nome** | **Tipo** | **Data** | **Tema** | **Açoes**
+    00120 | Lorem ipsum   | laboris nisi | 01/01/0001 | incididunt ut labore | { [Editar] | [Excluir] }
+    00120 | Lorem ipsum   | laboris nisi | 01/01/0001 | incididunt ut labore |{ [Editar] | [Excluir] }
+    00120 | Lorem ipsum   | laboris nisi | 01/01/0001 | incididunt ut labore |{ [Editar] | [Excluir] }
+    00120 | Lorem ipsum   | laboris nisi | 01/01/0001 | incididunt ut labore |{ [Editar] | [Excluir] }
+    }
+    .
+    .
+}
+@endsalt

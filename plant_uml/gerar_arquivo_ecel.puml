@@ -1,0 +1,17 @@
+@startsalt  pesquisa
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Gerar Arquivo Excel contendo dados das perícias
+header MPMG
+caption Sistema de Perícia MPMG
+{
+
+
+    {[Gerar Arquivo] | [Cancelar] }
+    .
+}
+@endsalt

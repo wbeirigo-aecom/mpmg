@@ -1,0 +1,25 @@
+@startsalt  tela_questionario
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Grid de Questionário
+header MPMG
+caption Sistema de Perícia MPMG
+{
+    {^**Questionário Principal**:
+        .
+        {#
+            Descrição                                                    | Resposta  | Ortográfico
+            orem ipsum dolor sit amet, consectetur adipiscing elit       | <color:green><&check>  | <color:red><&x>
+            orem ipsum dolor sit amet, consectetur adipiscing elit       | <color:red><&x>      | _
+            orem ipsum dolor sit amet, consectetur adipiscing elit       | <color:green><&check>  |<color:green><&check>
+        }
+        .
+        [ Responder Questionário]
+    }
+    .
+}
+@endsalt

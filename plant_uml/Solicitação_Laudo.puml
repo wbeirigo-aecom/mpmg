@@ -1,0 +1,49 @@
+@startsalt  tela_solicitacao_laudo
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 200
+title Tela de Soliciação de Perícia
+header MPMG
+caption Sistema de Perícia MPMG
+{
+    {
+        Descrição | "                         "
+        .
+        Tema: | ^Tema 0012^
+        .
+    }
+    {^**Local**
+        Municipio|"         "
+        Distrito|"      "
+        Observações|"      "
+    }
+    .
+    **Inspetores**
+    {#
+    Id | Nome | Ações
+     423| Lorem ipsum dolor sit amet | [ ] Excluir
+     985 | Lorem ipsum dolor sit amet | [ ] Excluir
+    }
+    [Adicionar]
+    .
+    **Questões Específicas**
+    {#
+    Id | Nome | Ações
+     1| Lorem ipsum dolor sit amet | [ ] Excluir
+     2 | Lorem ipsum dolor sit amet | [ ] Excluir
+    }
+    [Adicionar]
+    .
+    {^**Observações do laudo**
+    "                                  "
+    "                                  "
+    "                                  "
+    }
+    .
+    [ Salvar ]|[Cancelar]
+}
+
+@endsalt

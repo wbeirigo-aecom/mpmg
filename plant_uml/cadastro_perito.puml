@@ -1,0 +1,47 @@
+@startsalt  tela_solicitacao_laudo
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Tela de Cadastro de Perito
+header MPMG
+caption Sistema de Perícia MPMG
+{
+    {
+        * CPF |  "    "
+        .
+        * Nome |  "                "
+        .
+        * E-mail |  "         "
+        .
+        * Identificação 1| ^CREA-MG^^CRMV-MG^OAB-MG^ | "      "
+        .
+        .
+        .
+        Identificação 2| ^CREA-MG^^CRMV-MG^OAB-MG^ | "      "
+        .
+        .
+        * ART|  "      "
+        .
+
+        * Celular|  "      "
+        .
+        Órgão de Origem|  "      "
+        .
+        Comentários | {
+        | "             "
+        | "             "
+        }
+        .
+        Status | ^Ativo^^Inativo^
+        .
+        .
+
+    }
+    .
+    [ Salvar ]|[Cancelar]
+}
+
+@endsalt

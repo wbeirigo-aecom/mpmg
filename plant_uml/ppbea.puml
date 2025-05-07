@@ -1,0 +1,86 @@
+
+@startsalt  upload_arquivo_laudo
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Formulário **PPBAE - PROTOCOLO DE AVALIAÇÃO DE BEM-ESTAR ANIMAL E MAUS TRATOS**
+header AECOM
+footer Sistema de Perícia MPMG
+caption CoE AECOM
+{
+
+
+        {^**Laudo N°** <color:blue>**2323-25**
+            **Descrição**: consectetur adipiscing elit, sed do eiusmod
+            .
+            **Tema**: Lorem ipsum dolor sit amet | **Status**: eiusmod tempor
+            .
+            **Data de Cadastro**: 01/04/2025 | <color:red>**Data limite**: 02/05/2025
+            .
+            **Localização**: consectetur - adipiscing - el. |  **Última alteração**: 28/03/2025 20:35
+            .
+            .
+            {^ **Peritos**
+                35435345 - Lorem ipsum dolor sit amet
+                3332232  - Lorem ipsum dolor sit amet
+            }
+            | {^ **Ocorrência:** dd/mm/yyyy}
+                        .
+            {^ **Denunciado:**
+                ***Nome**  | consectetur adipiscing elit, sed do eiusmod
+                ***CPF**   | 999.999.999-99
+                **Observações**   | consectetur adipiscing elit, sed do eiusmod
+                . | consectetur adipiscing elit, sed do eiusmod
+                . | consectetur adipiscing elit, sed do eiusmod
+                .
+            }
+
+        }
+
+    .
+
+
+    {^ **Questões**
+        .
+        1 Lorem ipsum dolor sit amet, consectetur adipiscing
+          (*)Sim ( ) Não
+        .
+        2 Lorem ipsum dolor sit amet, consectetur adipiscing
+         [ ] consectetur adipiscing
+         [X] consectetur adipiscing
+         [ ] consectetur adipiscing
+         [X] consectetur adipiscing
+         [ ] consectetur adipiscing
+        .
+        .
+        3 Lorem ipsum dolor sit amet, consectetur adipiscing
+          "                       "
+        .
+            **.**
+            **.**
+            **.**
+        {[Calcular] | [Cancelar]}
+        .
+    }
+    .
+    .
+    .
+    {^ **Resultado dos Cálculos**
+        .
+        {#
+            **Tópico** | **Resultado**
+            Lorem ipsum dolor sit amet | <color:green>A+
+            Lorem ipsum dolor sit amet | <color:orange>B+
+            Lorem ipsum dolor sit amet | <color:red> B-
+            Lorem ipsum dolor sit amet | <color:red>B-
+        }
+        ** Resultado Geral:** <color:green>AA+
+        .
+    }
+.
+.
+}
+@endsalt

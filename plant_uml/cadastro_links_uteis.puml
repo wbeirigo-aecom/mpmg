@@ -1,0 +1,37 @@
+@startsalt  pesquisa
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Cadastrar e exibir Links úteis
+header MPMG
+caption Sistema de Perícia MPMG
+{
+
+        {^**Laudos de exemplo:**
+            .
+            {#
+                ID      | Nome        | Tema       | Link | Ações
+                2322    | Fusce nec tellus sed augue semper        | eiusmod    | htts://exemple.com.br/3409238uywqew  | { [Excluir] | [visualizar] }
+                5454    | Fusce nec tellus sed augue semper        | eiusmod    | htts://exemple.com.br/3409238uywqew  | { [Excluir] | [visualizar] }
+                465     | Fusce nec tellus sed augue semper         | eiusmod    | htts://exemple.com.br/3409238uywqew  | { [Excluir] | [visualizar] }
+            }
+            .
+        }
+    .
+    .
+    {
+    ID | 0101
+    .
+    Descrição | "      "
+    .
+    URL | "        " |
+    .
+    }
+    .
+    {[Salvar] | [Canelar] }
+    .
+}
+@endsalt

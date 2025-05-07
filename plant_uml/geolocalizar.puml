@@ -1,0 +1,23 @@
+
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Preencher informações sobre a perícia
+header MPMG
+caption Sistema de Perícia MPMG
+{
+        {^**Local**
+            Município|"         "
+            Distrito|"      "
+            CEP| "99.999-000"
+            [Geolocalizar]
+            Lat | "-99.99999"
+            Long |"-99.99999"
+            Observações|"            "
+        }
+}
+@endsalt

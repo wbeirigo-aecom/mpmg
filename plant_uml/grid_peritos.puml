@@ -1,0 +1,22 @@
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Grid de Peritos
+header MPMG
+caption Sistema de Perícia MPMG
+{
+[Novo Perito]
+{#
+CPF | Nome | Status | E-mail | Celular | Ação
+999.999.999-99 | Lorem ipsum dolor  | Ativo | rieruwei@example.com | 99 9 9999-9999 | [Editar]
+999.999.999-99 | Lorem ipsum dolor  | Ativo | rieruwei@example.com | 99 9 9999-9999 | [Editar]
+999.999.999-99 | Lorem ipsum dolor  | Ativo | rieruwei@example.com | 99 9 9999-9999 | [Editar]
+}
+.
+.
+}
+@endsalt

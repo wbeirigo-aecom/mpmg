@@ -1,0 +1,60 @@
+
+@startsalt  upload_arquivo_laudo
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Upload de indivíduos do laudo
+header AECOM
+footer Sistema de Perícia MPMG
+caption CoE AECOM
+{
+
+    {^ **Informações Gerais**
+        .
+        {^**Laudo:**
+        **2323-25**
+        }
+
+        {^**informações do laudo**
+        **Descrição**: consectetur adipiscing elit, sed do eiusmod
+        .
+        **Tema**: Lorem ipsum dolor sit amet | **Status**: eiusmod tempor
+        .
+        **Data de Cadastro**: 01/04/2025 | <color:red>**Data limite**: 02/05/2025
+        .
+
+        **Localização**: consectetur - adipiscing - el. |  **Última alteração**: 28/03/2025 20:35
+        }
+        .
+        {^ **Peritos**
+        35435345 - Lorem ipsum dolor sit amet
+        3332232  - Lorem ipsum dolor sit amet
+        }
+        .
+        {^ **Ocorrência:** dd/mm/yyyy}
+    }
+    .
+    {^ **Arquivo de indivíduos**
+        .
+        <color:red> **Importante**
+        - Nesta tela o usuário realiza upload de arquivo no formato Excel (.xls);
+        - O sistema pode conter quantas colunas forém necessárias, sendo que a primeira
+          é utilizada para identificar o indivíduo, portando não é permitido valores
+          duplicados.
+        .
+
+        {^ **Arquivo**
+          .
+          "                    " | [localizar]
+          {[Enviar] | [Cancelar]}
+          .
+        }
+        .
+    }
+.
+.
+}
+@endsalt

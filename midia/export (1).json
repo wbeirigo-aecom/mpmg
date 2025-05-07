@@ -1,0 +1,6786 @@
+{
+  "filename": "maus-tratos.pdf",
+  "page_data": [
+    {
+      "page": 0,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/a623f2ef-d486-4bf0-8f9b-71131f2fc126-1.jpeg?ik-s=74437bef6f561394382869ccfeeb7ee2c545e887&ik-t=1743218630",
+      "size": {
+        "width": 2481,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "PROTOCOLO",
+          "xmin": 470,
+          "ymin": 305,
+          "xmax": 759,
+          "ymax": 337
+        },
+        {
+          "text": "DE",
+          "xmin": 755,
+          "ymin": 305,
+          "xmax": 812,
+          "ymax": 337
+        },
+        {
+          "text": "AVALIACAO",
+          "xmin": 828,
+          "ymin": 297,
+          "xmax": 1095,
+          "ymax": 346
+        },
+        {
+          "text": "DE",
+          "xmin": 1111,
+          "ymin": 305,
+          "xmax": 1169,
+          "ymax": 337
+        },
+        {
+          "text": "BEM-ESTAR",
+          "xmin": 1183,
+          "ymin": 305,
+          "xmax": 1439,
+          "ymax": 337
+        },
+        {
+          "text": "ANIMAL",
+          "xmin": 1455,
+          "ymin": 305,
+          "xmax": 1633,
+          "ymax": 337
+        },
+        {
+          "text": "E",
+          "xmin": 1651,
+          "ymin": 305,
+          "xmax": 1673,
+          "ymax": 336
+        },
+        {
+          "text": "MAUS",
+          "xmin": 1689,
+          "ymin": 305,
+          "xmax": 1818,
+          "ymax": 338
+        },
+        {
+          "text": "TRATOS",
+          "xmin": 1833,
+          "ymin": 305,
+          "xmax": 2006,
+          "ymax": 337
+        },
+        {
+          "text": "ADAPTADO",
+          "xmin": 490,
+          "ymin": 358,
+          "xmax": 737,
+          "ymax": 389
+        },
+        {
+          "text": "DO",
+          "xmin": 753,
+          "ymin": 358,
+          "xmax": 814,
+          "ymax": 389
+        },
+        {
+          "text": "PROTOCOLO",
+          "xmin": 830,
+          "ymin": 358,
+          "xmax": 1103,
+          "ymax": 390
+        },
+        {
+          "text": "DE",
+          "xmin": 1116,
+          "ymin": 358,
+          "xmax": 1173,
+          "ymax": 389
+        },
+        {
+          "text": "PERICIA",
+          "xmin": 1189,
+          "ymin": 349,
+          "xmax": 1363,
+          "ymax": 390
+        },
+        {
+          "text": "EM",
+          "xmin": 1379,
+          "ymin": 358,
+          "xmax": 1441,
+          "ymax": 389
+        },
+        {
+          "text": "BEM-ESTAR",
+          "xmin": 1460,
+          "ymin": 358,
+          "xmax": 1713,
+          "ymax": 389
+        },
+        {
+          "text": "ANIMALDO",
+          "xmin": 1731,
+          "ymin": 358,
+          "xmax": 1987,
+          "ymax": 389
+        },
+        {
+          "text": "LABEA/UFPR",
+          "xmin": 1100,
+          "ymin": 410,
+          "xmax": 1373,
+          "ymax": 441
+        },
+        {
+          "text": "Data",
+          "xmin": 355,
+          "ymin": 515,
+          "xmax": 430,
+          "ymax": 543
+        },
+        {
+          "text": "de",
+          "xmin": 444,
+          "ymin": 515,
+          "xmax": 479,
+          "ymax": 543
+        },
+        {
+          "text": "solicitacao",
+          "xmin": 494,
+          "ymin": 515,
+          "xmax": 666,
+          "ymax": 548
+        },
+        {
+          "text": "Data",
+          "xmin": 988,
+          "ymin": 515,
+          "xmax": 1063,
+          "ymax": 543
+        },
+        {
+          "text": "da",
+          "xmin": 1077,
+          "ymin": 515,
+          "xmax": 1115,
+          "ymax": 543
+        },
+        {
+          "text": "vistoria",
+          "xmin": 1128,
+          "ymin": 515,
+          "xmax": 1247,
+          "ymax": 543
+        },
+        {
+          "text": "/",
+          "xmin": 1455,
+          "ymin": 520,
+          "xmax": 1459,
+          "ymax": 533
+        },
+        {
+          "text": "Hora",
+          "xmin": 1568,
+          "ymin": 515,
+          "xmax": 1650,
+          "ymax": 543
+        },
+        {
+          "text": "da",
+          "xmin": 1661,
+          "ymin": 515,
+          "xmax": 1699,
+          "ymax": 543
+        },
+        {
+          "text": "vistoria",
+          "xmin": 1712,
+          "ymin": 515,
+          "xmax": 1833,
+          "ymax": 543
+        },
+        {
+          "text": "Produtor",
+          "xmin": 356,
+          "ymin": 587,
+          "xmax": 499,
+          "ymax": 616
+        },
+        {
+          "text": "Endereco",
+          "xmin": 354,
+          "ymin": 659,
+          "xmax": 510,
+          "ymax": 694
+        },
+        {
+          "text": "Bairro",
+          "xmin": 1482,
+          "ymin": 659,
+          "xmax": 1584,
+          "ymax": 688
+        },
+        {
+          "text": "Responsavel",
+          "xmin": 355,
+          "ymin": 730,
+          "xmax": 564,
+          "ymax": 765
+        },
+        {
+          "text": "pela",
+          "xmin": 574,
+          "ymin": 730,
+          "xmax": 641,
+          "ymax": 765
+        },
+        {
+          "text": "avaliacao",
+          "xmin": 656,
+          "ymin": 730,
+          "xmax": 809,
+          "ymax": 764
+        },
+        {
+          "text": "Identificacao",
+          "xmin": 355,
+          "ymin": 855,
+          "xmax": 568,
+          "ymax": 890
+        },
+        {
+          "text": "do(",
+          "xmin": 582,
+          "ymin": 855,
+          "xmax": 636,
+          "ymax": 885
+        },
+        {
+          "text": "s)",
+          "xmin": 632,
+          "ymin": 855,
+          "xmax": 666,
+          "ymax": 885
+        },
+        {
+          "text": "animal(is",
+          "xmin": 679,
+          "ymin": 855,
+          "xmax": 830,
+          "ymax": 885
+        },
+        {
+          "text": "|",
+          "xmin": 834,
+          "ymin": 857,
+          "xmax": 840,
+          "ymax": 881
+        },
+        {
+          "text": "Especie",
+          "xmin": 355,
+          "ymin": 927,
+          "xmax": 482,
+          "ymax": 962
+        },
+        {
+          "text": "(",
+          "xmin": 507,
+          "ymin": 929,
+          "xmax": 514,
+          "ymax": 949
+        },
+        {
+          "text": "|",
+          "xmin": 554,
+          "ymin": 931,
+          "xmax": 558,
+          "ymax": 949
+        },
+        {
+          "text": "Bovino",
+          "xmin": 576,
+          "ymin": 927,
+          "xmax": 696,
+          "ymax": 956
+        },
+        {
+          "text": "(",
+          "xmin": 731,
+          "ymin": 929,
+          "xmax": 738,
+          "ymax": 952
+        },
+        {
+          "text": ")",
+          "xmin": 776,
+          "ymin": 928,
+          "xmax": 784,
+          "ymax": 954
+        },
+        {
+          "text": "Equino",
+          "xmin": 798,
+          "ymin": 927,
+          "xmax": 916,
+          "ymax": 965
+        },
+        {
+          "text": "(",
+          "xmin": 952,
+          "ymin": 931,
+          "xmax": 958,
+          "ymax": 949
+        },
+        {
+          "text": "|",
+          "xmin": 997,
+          "ymin": 927,
+          "xmax": 1002,
+          "ymax": 936
+        },
+        {
+          "text": "Suino",
+          "xmin": 1021,
+          "ymin": 928,
+          "xmax": 1115,
+          "ymax": 956
+        },
+        {
+          "text": "(",
+          "xmin": 1150,
+          "ymin": 928,
+          "xmax": 1159,
+          "ymax": 954
+        },
+        {
+          "text": ")",
+          "xmin": 1195,
+          "ymin": 927,
+          "xmax": 1203,
+          "ymax": 954
+        },
+        {
+          "text": "Aves",
+          "xmin": 1219,
+          "ymin": 928,
+          "xmax": 1301,
+          "ymax": 956
+        },
+        {
+          "text": "(",
+          "xmin": 1336,
+          "ymin": 932,
+          "xmax": 1341,
+          "ymax": 949
+        },
+        {
+          "text": "1",
+          "xmin": 1381,
+          "ymin": 927,
+          "xmax": 1389,
+          "ymax": 954
+        },
+        {
+          "text": "Outro",
+          "xmin": 1405,
+          "ymin": 927,
+          "xmax": 1496,
+          "ymax": 956
+        },
+        {
+          "text": "Categoria",
+          "xmin": 355,
+          "ymin": 999,
+          "xmax": 513,
+          "ymax": 1037
+        },
+        {
+          "text": "Finalidade",
+          "xmin": 1153,
+          "ymin": 999,
+          "xmax": 1326,
+          "ymax": 1028
+        },
+        {
+          "text": "da",
+          "xmin": 1340,
+          "ymin": 999,
+          "xmax": 1376,
+          "ymax": 1028
+        },
+        {
+          "text": "criacao",
+          "xmin": 1390,
+          "ymin": 999,
+          "xmax": 1507,
+          "ymax": 1033
+        },
+        {
+          "text": "Raca",
+          "xmin": 356,
+          "ymin": 1071,
+          "xmax": 436,
+          "ymax": 1107
+        },
+        {
+          "text": "Numero",
+          "xmin": 1012,
+          "ymin": 1071,
+          "xmax": 1145,
+          "ymax": 1099
+        },
+        {
+          "text": "de",
+          "xmin": 1158,
+          "ymin": 1071,
+          "xmax": 1195,
+          "ymax": 1099
+        },
+        {
+          "text": "animais",
+          "xmin": 1209,
+          "ymin": 1071,
+          "xmax": 1335,
+          "ymax": 1099
+        },
+        {
+          "text": "do",
+          "xmin": 1348,
+          "ymin": 1071,
+          "xmax": 1387,
+          "ymax": 1099
+        },
+        {
+          "text": "rebanho",
+          "xmin": 1400,
+          "ymin": 1071,
+          "xmax": 1532,
+          "ymax": 1100
+        },
+        {
+          "text": "Aloiamento",
+          "xmin": 356,
+          "ymin": 1143,
+          "xmax": 549,
+          "ymax": 1170
+        },
+        {
+          "text": "|",
+          "xmin": 619,
+          "ymin": 1142,
+          "xmax": 623,
+          "ymax": 1148
+        },
+        {
+          "text": "Campo",
+          "xmin": 643,
+          "ymin": 1142,
+          "xmax": 761,
+          "ymax": 1177
+        },
+        {
+          "text": "(",
+          "xmin": 795,
+          "ymin": 1144,
+          "xmax": 802,
+          "ymax": 1163
+        },
+        {
+          "text": "`",
+          "xmin": 840,
+          "ymin": 1142,
+          "xmax": 845,
+          "ymax": 1150
+        },
+        {
+          "text": "Confinado",
+          "xmin": 864,
+          "ymin": 1142,
+          "xmax": 1036,
+          "ymax": 1170
+        },
+        {
+          "text": "(",
+          "xmin": 1071,
+          "ymin": 1144,
+          "xmax": 1078,
+          "ymax": 1166
+        },
+        {
+          "text": "1",
+          "xmin": 1116,
+          "ymin": 1142,
+          "xmax": 1124,
+          "ymax": 1167
+        },
+        {
+          "text": "Semi",
+          "xmin": 1140,
+          "ymin": 1142,
+          "xmax": 1222,
+          "ymax": 1170
+        },
+        {
+          "text": "Area",
+          "xmin": 1318,
+          "ymin": 1134,
+          "xmax": 1397,
+          "ymax": 1170
+        },
+        {
+          "text": "por",
+          "xmin": 1408,
+          "ymin": 1151,
+          "xmax": 1463,
+          "ymax": 1178
+        },
+        {
+          "text": "animal",
+          "xmin": 1476,
+          "ymin": 1142,
+          "xmax": 1584,
+          "ymax": 1170
+        },
+        {
+          "text": "AVALIACAO",
+          "xmin": 507,
+          "ymin": 1348,
+          "xmax": 754,
+          "ymax": 1398
+        },
+        {
+          "text": "DE",
+          "xmin": 766,
+          "ymin": 1352,
+          "xmax": 819,
+          "ymax": 1389
+        },
+        {
+          "text": "BEM-ESTAR",
+          "xmin": 831,
+          "ymin": 1352,
+          "xmax": 1066,
+          "ymax": 1389
+        },
+        {
+          "text": "ANIMAL",
+          "xmin": 1081,
+          "ymin": 1352,
+          "xmax": 1258,
+          "ymax": 1389
+        },
+        {
+          "text": "E",
+          "xmin": 1258,
+          "ymin": 1360,
+          "xmax": 1278,
+          "ymax": 1388
+        },
+        {
+          "text": "DIAGNOSTICO",
+          "xmin": 1292,
+          "ymin": 1348,
+          "xmax": 1576,
+          "ymax": 1389
+        },
+        {
+          "text": "DE",
+          "xmin": 1585,
+          "ymin": 1352,
+          "xmax": 1642,
+          "ymax": 1389
+        },
+        {
+          "text": "MAUS-TRATOS",
+          "xmin": 1653,
+          "ymin": 1352,
+          "xmax": 1948,
+          "ymax": 1389
+        },
+        {
+          "text": "Indicadores",
+          "xmin": 355,
+          "ymin": 1446,
+          "xmax": 547,
+          "ymax": 1475
+        },
+        {
+          "text": "nutricionais",
+          "xmin": 560,
+          "ymin": 1446,
+          "xmax": 753,
+          "ymax": 1474
+        },
+        {
+          "text": "1.",
+          "xmin": 360,
+          "ymin": 1531,
+          "xmax": 382,
+          "ymax": 1555
+        },
+        {
+          "text": "Escore",
+          "xmin": 378,
+          "ymin": 1530,
+          "xmax": 507,
+          "ymax": 1559
+        },
+        {
+          "text": "corporal",
+          "xmin": 520,
+          "ymin": 1530,
+          "xmax": 657,
+          "ymax": 1565
+        },
+        {
+          "text": "(",
+          "xmin": 670,
+          "ymin": 1530,
+          "xmax": 680,
+          "ymax": 1557
+        },
+        {
+          "text": "1-5",
+          "xmin": 676,
+          "ymin": 1530,
+          "xmax": 733,
+          "ymax": 1555
+        },
+        {
+          "text": "1",
+          "xmin": 742,
+          "ymin": 1534,
+          "xmax": 747,
+          "ymax": 1552
+        },
+        {
+          "text": "2",
+          "xmin": 1076,
+          "ymin": 1530,
+          "xmax": 1095,
+          "ymax": 1558
+        },
+        {
+          "text": "Disponibilidade",
+          "xmin": 1118,
+          "ymin": 1530,
+          "xmax": 1381,
+          "ymax": 1565
+        },
+        {
+          "text": "de",
+          "xmin": 1393,
+          "ymin": 1531,
+          "xmax": 1430,
+          "ymax": 1559
+        },
+        {
+          "text": "agua",
+          "xmin": 1444,
+          "ymin": 1531,
+          "xmax": 1519,
+          "ymax": 1567
+        },
+        {
+          "text": "fresca:",
+          "xmin": 1531,
+          "ymin": 1530,
+          "xmax": 1639,
+          "ymax": 1559
+        },
+        {
+          "text": "(",
+          "xmin": 1654,
+          "ymin": 1535,
+          "xmax": 1659,
+          "ymax": 1555
+        },
+        {
+          "text": "|",
+          "xmin": 1699,
+          "ymin": 1532,
+          "xmax": 1706,
+          "ymax": 1555
+        },
+        {
+          "text": "Sim",
+          "xmin": 1723,
+          "ymin": 1530,
+          "xmax": 1784,
+          "ymax": 1559
+        },
+        {
+          "text": "(",
+          "xmin": 1821,
+          "ymin": 1530,
+          "xmax": 1831,
+          "ymax": 1554
+        },
+        {
+          "text": ")",
+          "xmin": 1866,
+          "ymin": 1530,
+          "xmax": 1874,
+          "ymax": 1557
+        },
+        {
+          "text": "Nao",
+          "xmin": 1889,
+          "ymin": 1530,
+          "xmax": 1957,
+          "ymax": 1559
+        },
+        {
+          "text": "3.",
+          "xmin": 356,
+          "ymin": 1601,
+          "xmax": 383,
+          "ymax": 1630
+        },
+        {
+          "text": "Alimentacao",
+          "xmin": 396,
+          "ymin": 1601,
+          "xmax": 606,
+          "ymax": 1637
+        },
+        {
+          "text": "(",
+          "xmin": 631,
+          "ymin": 1605,
+          "xmax": 637,
+          "ymax": 1624
+        },
+        {
+          "text": ")",
+          "xmin": 677,
+          "ymin": 1601,
+          "xmax": 684,
+          "ymax": 1626
+        },
+        {
+          "text": "Pastagem",
+          "xmin": 700,
+          "ymin": 1601,
+          "xmax": 856,
+          "ymax": 1639
+        },
+        {
+          "text": "(",
+          "xmin": 892,
+          "ymin": 1606,
+          "xmax": 897,
+          "ymax": 1626
+        },
+        {
+          "text": ")",
+          "xmin": 937,
+          "ymin": 1601,
+          "xmax": 945,
+          "ymax": 1628
+        },
+        {
+          "text": "Concentrado",
+          "xmin": 960,
+          "ymin": 1601,
+          "xmax": 1170,
+          "ymax": 1631
+        },
+        {
+          "text": "(",
+          "xmin": 1509,
+          "ymin": 1602,
+          "xmax": 1518,
+          "ymax": 1628
+        },
+        {
+          "text": "1",
+          "xmin": 1554,
+          "ymin": 1601,
+          "xmax": 1562,
+          "ymax": 1625
+        },
+        {
+          "text": "Volumoso",
+          "xmin": 1578,
+          "ymin": 1601,
+          "xmax": 1747,
+          "ymax": 1630
+        },
+        {
+          "text": "4.",
+          "xmin": 354,
+          "ymin": 1673,
+          "xmax": 382,
+          "ymax": 1698
+        },
+        {
+          "text": "Suplementacao",
+          "xmin": 397,
+          "ymin": 1672,
+          "xmax": 648,
+          "ymax": 1705
+        },
+        {
+          "text": "(",
+          "xmin": 673,
+          "ymin": 1677,
+          "xmax": 678,
+          "ymax": 1698
+        },
+        {
+          "text": "|",
+          "xmin": 719,
+          "ymin": 1673,
+          "xmax": 726,
+          "ymax": 1699
+        },
+        {
+          "text": "Sim",
+          "xmin": 743,
+          "ymin": 1672,
+          "xmax": 806,
+          "ymax": 1701
+        },
+        {
+          "text": "(",
+          "xmin": 841,
+          "ymin": 1674,
+          "xmax": 848,
+          "ymax": 1698
+        },
+        {
+          "text": ")",
+          "xmin": 886,
+          "ymin": 1672,
+          "xmax": 893,
+          "ymax": 1699
+        },
+        {
+          "text": "Nao",
+          "xmin": 908,
+          "ymin": 1672,
+          "xmax": 976,
+          "ymax": 1701
+        },
+        {
+          "text": "(",
+          "xmin": 1011,
+          "ymin": 1674,
+          "xmax": 1018,
+          "ymax": 1698
+        },
+        {
+          "text": ")",
+          "xmin": 1056,
+          "ymin": 1673,
+          "xmax": 1063,
+          "ymax": 1699
+        },
+        {
+          "text": "Qual",
+          "xmin": 1082,
+          "ymin": 1672,
+          "xmax": 1159,
+          "ymax": 1705
+        },
+        {
+          "text": "5.",
+          "xmin": 356,
+          "ymin": 1742,
+          "xmax": 383,
+          "ymax": 1770
+        },
+        {
+          "text": "Condicoes",
+          "xmin": 397,
+          "ymin": 1742,
+          "xmax": 570,
+          "ymax": 1776
+        },
+        {
+          "text": "do",
+          "xmin": 582,
+          "ymin": 1743,
+          "xmax": 622,
+          "ymax": 1770
+        },
+        {
+          "text": "bebedouro",
+          "xmin": 634,
+          "ymin": 1742,
+          "xmax": 809,
+          "ymax": 1770
+        },
+        {
+          "text": "(",
+          "xmin": 833,
+          "ymin": 1744,
+          "xmax": 841,
+          "ymax": 1768
+        },
+        {
+          "text": ")",
+          "xmin": 878,
+          "ymin": 1742,
+          "xmax": 885,
+          "ymax": 1770
+        },
+        {
+          "text": "Limpo",
+          "xmin": 901,
+          "ymin": 1742,
+          "xmax": 1010,
+          "ymax": 1778
+        },
+        {
+          "text": "(",
+          "xmin": 1044,
+          "ymin": 1744,
+          "xmax": 1051,
+          "ymax": 1769
+        },
+        {
+          "text": "|",
+          "xmin": 1090,
+          "ymin": 1743,
+          "xmax": 1095,
+          "ymax": 1751
+        },
+        {
+          "text": "Parcialmente",
+          "xmin": 1113,
+          "ymin": 1742,
+          "xmax": 1326,
+          "ymax": 1770
+        },
+        {
+          "text": "suio",
+          "xmin": 1341,
+          "ymin": 1743,
+          "xmax": 1406,
+          "ymax": 1770
+        },
+        {
+          "text": "(",
+          "xmin": 1442,
+          "ymin": 1746,
+          "xmax": 1448,
+          "ymax": 1766
+        },
+        {
+          "text": "|",
+          "xmin": 1488,
+          "ymin": 1745,
+          "xmax": 1492,
+          "ymax": 1750
+        },
+        {
+          "text": "Sujo",
+          "xmin": 1512,
+          "ymin": 1742,
+          "xmax": 1585,
+          "ymax": 1777
+        },
+        {
+          "text": "6.",
+          "xmin": 355,
+          "ymin": 1813,
+          "xmax": 383,
+          "ymax": 1842
+        },
+        {
+          "text": "Condicoes",
+          "xmin": 396,
+          "ymin": 1813,
+          "xmax": 570,
+          "ymax": 1850
+        },
+        {
+          "text": "do",
+          "xmin": 582,
+          "ymin": 1814,
+          "xmax": 622,
+          "ymax": 1842
+        },
+        {
+          "text": "comedouro",
+          "xmin": 635,
+          "ymin": 1814,
+          "xmax": 819,
+          "ymax": 1842
+        },
+        {
+          "text": "(",
+          "xmin": 844,
+          "ymin": 1815,
+          "xmax": 851,
+          "ymax": 1835
+        },
+        {
+          "text": ")",
+          "xmin": 890,
+          "ymin": 1813,
+          "xmax": 899,
+          "ymax": 1839
+        },
+        {
+          "text": "Limpo",
+          "xmin": 912,
+          "ymin": 1813,
+          "xmax": 1022,
+          "ymax": 1848
+        },
+        {
+          "text": "(",
+          "xmin": 1056,
+          "ymin": 1817,
+          "xmax": 1062,
+          "ymax": 1837
+        },
+        {
+          "text": "|",
+          "xmin": 1101,
+          "ymin": 1814,
+          "xmax": 1106,
+          "ymax": 1822
+        },
+        {
+          "text": "Parcialmente",
+          "xmin": 1124,
+          "ymin": 1813,
+          "xmax": 1340,
+          "ymax": 1842
+        },
+        {
+          "text": "suio",
+          "xmin": 1353,
+          "ymin": 1813,
+          "xmax": 1417,
+          "ymax": 1842
+        },
+        {
+          "text": "(",
+          "xmin": 1454,
+          "ymin": 1814,
+          "xmax": 1463,
+          "ymax": 1839
+        },
+        {
+          "text": ")",
+          "xmin": 1499,
+          "ymin": 1813,
+          "xmax": 1507,
+          "ymax": 1839
+        },
+        {
+          "text": "Suio",
+          "xmin": 1523,
+          "ymin": 1813,
+          "xmax": 1595,
+          "ymax": 1842
+        },
+        {
+          "text": "Comentarios",
+          "xmin": 355,
+          "ymin": 1884,
+          "xmax": 564,
+          "ymax": 1913
+        },
+        {
+          "text": "Parecer",
+          "xmin": 356,
+          "ymin": 1955,
+          "xmax": 479,
+          "ymax": 1984
+        },
+        {
+          "text": "referente",
+          "xmin": 489,
+          "ymin": 1955,
+          "xmax": 636,
+          "ymax": 1984
+        },
+        {
+          "text": "a",
+          "xmin": 649,
+          "ymin": 1955,
+          "xmax": 660,
+          "ymax": 1981
+        },
+        {
+          "text": "nutricao:",
+          "xmin": 677,
+          "ymin": 1955,
+          "xmax": 821,
+          "ymax": 1992
+        },
+        {
+          "text": "(",
+          "xmin": 836,
+          "ymin": 1957,
+          "xmax": 843,
+          "ymax": 1980
+        },
+        {
+          "text": "|",
+          "xmin": 881,
+          "ymin": 1956,
+          "xmax": 886,
+          "ymax": 1963
+        },
+        {
+          "text": "Inadequado",
+          "xmin": 906,
+          "ymin": 1955,
+          "xmax": 1096,
+          "ymax": 1987
+        },
+        {
+          "text": "(",
+          "xmin": 1131,
+          "ymin": 1956,
+          "xmax": 1142,
+          "ymax": 1981
+        },
+        {
+          "text": "1",
+          "xmin": 1176,
+          "ymin": 1956,
+          "xmax": 1184,
+          "ymax": 1979
+        },
+        {
+          "text": "Regular",
+          "xmin": 1199,
+          "ymin": 1955,
+          "xmax": 1329,
+          "ymax": 1992
+        },
+        {
+          "text": "(",
+          "xmin": 1363,
+          "ymin": 1956,
+          "xmax": 1373,
+          "ymax": 1979
+        },
+        {
+          "text": "|",
+          "xmin": 1408,
+          "ymin": 1956,
+          "xmax": 1414,
+          "ymax": 1978
+        },
+        {
+          "text": "Adequado",
+          "xmin": 1432,
+          "ymin": 1955,
+          "xmax": 1600,
+          "ymax": 1987
+        },
+        {
+          "text": "Indicadores",
+          "xmin": 355,
+          "ymin": 2071,
+          "xmax": 546,
+          "ymax": 2099
+        },
+        {
+          "text": "de",
+          "xmin": 559,
+          "ymin": 2071,
+          "xmax": 597,
+          "ymax": 2099
+        },
+        {
+          "text": "conforto",
+          "xmin": 609,
+          "ymin": 2071,
+          "xmax": 748,
+          "ymax": 2099
+        },
+        {
+          "text": "7.Ha",
+          "xmin": 355,
+          "ymin": 2156,
+          "xmax": 441,
+          "ymax": 2184
+        },
+        {
+          "text": "abrigo",
+          "xmin": 456,
+          "ymin": 2156,
+          "xmax": 559,
+          "ymax": 2190
+        },
+        {
+          "text": "fixo?",
+          "xmin": 572,
+          "ymin": 2156,
+          "xmax": 655,
+          "ymax": 2184
+        },
+        {
+          "text": "(",
+          "xmin": 670,
+          "ymin": 2156,
+          "xmax": 680,
+          "ymax": 2184
+        },
+        {
+          "text": "|",
+          "xmin": 714,
+          "ymin": 2156,
+          "xmax": 719,
+          "ymax": 2183
+        },
+        {
+          "text": "Sim",
+          "xmin": 739,
+          "ymin": 2156,
+          "xmax": 800,
+          "ymax": 2184
+        },
+        {
+          "text": "(",
+          "xmin": 836,
+          "ymin": 2158,
+          "xmax": 843,
+          "ymax": 2183
+        },
+        {
+          "text": "|",
+          "xmin": 881,
+          "ymin": 2157,
+          "xmax": 886,
+          "ymax": 2183
+        },
+        {
+          "text": "Nao",
+          "xmin": 904,
+          "ymin": 2156,
+          "xmax": 970,
+          "ymax": 2184
+        },
+        {
+          "text": "8.",
+          "xmin": 357,
+          "ymin": 2226,
+          "xmax": 382,
+          "ymax": 2254
+        },
+        {
+          "text": ".s",
+          "xmin": 378,
+          "ymin": 2226,
+          "xmax": 438,
+          "ymax": 2255
+        },
+        {
+          "text": "animais",
+          "xmin": 455,
+          "ymin": 2226,
+          "xmax": 580,
+          "ymax": 2255
+        },
+        {
+          "text": "tem",
+          "xmin": 593,
+          "ymin": 2226,
+          "xmax": 649,
+          "ymax": 2255
+        },
+        {
+          "text": "acesso",
+          "xmin": 666,
+          "ymin": 2235,
+          "xmax": 770,
+          "ymax": 2255
+        },
+        {
+          "text": "a",
+          "xmin": 785,
+          "ymin": 2226,
+          "xmax": 797,
+          "ymax": 2253
+        },
+        {
+          "text": "sombra",
+          "xmin": 814,
+          "ymin": 2226,
+          "xmax": 934,
+          "ymax": 2255
+        },
+        {
+          "text": "e",
+          "xmin": 946,
+          "ymin": 2235,
+          "xmax": 959,
+          "ymax": 2253
+        },
+        {
+          "text": "protecao",
+          "xmin": 974,
+          "ymin": 2228,
+          "xmax": 1116,
+          "ymax": 2261
+        },
+        {
+          "text": "contra",
+          "xmin": 1130,
+          "ymin": 2230,
+          "xmax": 1230,
+          "ymax": 2255
+        },
+        {
+          "text": "vento?",
+          "xmin": 1246,
+          "ymin": 2226,
+          "xmax": 1354,
+          "ymax": 2255
+        },
+        {
+          "text": "(",
+          "xmin": 1367,
+          "ymin": 2227,
+          "xmax": 1376,
+          "ymax": 2253
+        },
+        {
+          "text": ")",
+          "xmin": 1413,
+          "ymin": 2226,
+          "xmax": 1420,
+          "ymax": 2253
+        },
+        {
+          "text": "Sim",
+          "xmin": 1437,
+          "ymin": 2226,
+          "xmax": 1499,
+          "ymax": 2255
+        },
+        {
+          "text": "(",
+          "xmin": 1534,
+          "ymin": 2230,
+          "xmax": 1541,
+          "ymax": 2249
+        },
+        {
+          "text": ")",
+          "xmin": 1580,
+          "ymin": 2226,
+          "xmax": 1587,
+          "ymax": 2255
+        },
+        {
+          "text": "Nao",
+          "xmin": 1602,
+          "ymin": 2226,
+          "xmax": 1669,
+          "ymax": 2255
+        },
+        {
+          "text": "9.",
+          "xmin": 355,
+          "ymin": 2297,
+          "xmax": 382,
+          "ymax": 2325
+        },
+        {
+          "text": "Temperatura",
+          "xmin": 396,
+          "ymin": 2297,
+          "xmax": 606,
+          "ymax": 2334
+        },
+        {
+          "text": "ambiente",
+          "xmin": 620,
+          "ymin": 2297,
+          "xmax": 770,
+          "ymax": 2326
+        },
+        {
+          "text": "Esta",
+          "xmin": 928,
+          "ymin": 2297,
+          "xmax": 997,
+          "ymax": 2324
+        },
+        {
+          "text": "na",
+          "xmin": 1011,
+          "ymin": 2306,
+          "xmax": 1049,
+          "ymax": 2326
+        },
+        {
+          "text": "zona",
+          "xmin": 1062,
+          "ymin": 2306,
+          "xmax": 1137,
+          "ymax": 2326
+        },
+        {
+          "text": "de",
+          "xmin": 1150,
+          "ymin": 2297,
+          "xmax": 1187,
+          "ymax": 2326
+        },
+        {
+          "text": "conforto",
+          "xmin": 1200,
+          "ymin": 2297,
+          "xmax": 1337,
+          "ymax": 2326
+        },
+        {
+          "text": "termico",
+          "xmin": 1352,
+          "ymin": 2297,
+          "xmax": 1474,
+          "ymax": 2326
+        },
+        {
+          "text": "da",
+          "xmin": 1489,
+          "ymin": 2297,
+          "xmax": 1524,
+          "ymax": 2326
+        },
+        {
+          "text": "especie/raca?",
+          "xmin": 1538,
+          "ymin": 2297,
+          "xmax": 1757,
+          "ymax": 2329
+        },
+        {
+          "text": "(",
+          "xmin": 1771,
+          "ymin": 2301,
+          "xmax": 1777,
+          "ymax": 2323
+        },
+        {
+          "text": ")",
+          "xmin": 1817,
+          "ymin": 2297,
+          "xmax": 1825,
+          "ymax": 2324
+        },
+        {
+          "text": "Sim",
+          "xmin": 1841,
+          "ymin": 2297,
+          "xmax": 1902,
+          "ymax": 2326
+        },
+        {
+          "text": "(",
+          "xmin": 1939,
+          "ymin": 2302,
+          "xmax": 1944,
+          "ymax": 2320
+        },
+        {
+          "text": "|",
+          "xmin": 1984,
+          "ymin": 2299,
+          "xmax": 1988,
+          "ymax": 2303
+        },
+        {
+          "text": "Nao",
+          "xmin": 2006,
+          "ymin": 2297,
+          "xmax": 2075,
+          "ymax": 2326
+        },
+        {
+          "text": "10.",
+          "xmin": 359,
+          "ymin": 2368,
+          "xmax": 404,
+          "ymax": 2398
+        },
+        {
+          "text": "Ha",
+          "xmin": 417,
+          "ymin": 2368,
+          "xmax": 463,
+          "ymax": 2397
+        },
+        {
+          "text": "superficie",
+          "xmin": 477,
+          "ymin": 2368,
+          "xmax": 637,
+          "ymax": 2405
+        },
+        {
+          "text": "confortavel",
+          "xmin": 650,
+          "ymin": 2368,
+          "xmax": 839,
+          "ymax": 2397
+        },
+        {
+          "text": "para",
+          "xmin": 850,
+          "ymin": 2377,
+          "xmax": 921,
+          "ymax": 2403
+        },
+        {
+          "text": "descanso?",
+          "xmin": 933,
+          "ymin": 2368,
+          "xmax": 1099,
+          "ymax": 2397
+        },
+        {
+          "text": "(",
+          "xmin": 1113,
+          "ymin": 2372,
+          "xmax": 1119,
+          "ymax": 2391
+        },
+        {
+          "text": "|",
+          "xmin": 1158,
+          "ymin": 2370,
+          "xmax": 1163,
+          "ymax": 2377
+        },
+        {
+          "text": "Sim",
+          "xmin": 1183,
+          "ymin": 2368,
+          "xmax": 1244,
+          "ymax": 2397
+        },
+        {
+          "text": "(",
+          "xmin": 1280,
+          "ymin": 2370,
+          "xmax": 1287,
+          "ymax": 2391
+        },
+        {
+          "text": ")",
+          "xmin": 1325,
+          "ymin": 2368,
+          "xmax": 1332,
+          "ymax": 2395
+        },
+        {
+          "text": "Nao",
+          "xmin": 1347,
+          "ymin": 2368,
+          "xmax": 1414,
+          "ymax": 2395
+        },
+        {
+          "text": "11.",
+          "xmin": 359,
+          "ymin": 2440,
+          "xmax": 404,
+          "ymax": 2465
+        },
+        {
+          "text": ".",
+          "xmin": 400,
+          "ymin": 2439,
+          "xmax": 444,
+          "ymax": 2466
+        },
+        {
+          "text": "espaco",
+          "xmin": 458,
+          "ymin": 2448,
+          "xmax": 568,
+          "ymax": 2476
+        },
+        {
+          "text": "disponivel",
+          "xmin": 581,
+          "ymin": 2439,
+          "xmax": 753,
+          "ymax": 2475
+        },
+        {
+          "text": "permite",
+          "xmin": 764,
+          "ymin": 2440,
+          "xmax": 891,
+          "ymax": 2475
+        },
+        {
+          "text": "pequenas",
+          "xmin": 902,
+          "ymin": 2448,
+          "xmax": 1055,
+          "ymax": 2475
+        },
+        {
+          "text": "corridas",
+          "xmin": 1068,
+          "ymin": 2439,
+          "xmax": 1200,
+          "ymax": 2468
+        },
+        {
+          "text": "ou",
+          "xmin": 1212,
+          "ymin": 2448,
+          "xmax": 1250,
+          "ymax": 2468
+        },
+        {
+          "text": "voos/bater",
+          "xmin": 1266,
+          "ymin": 2439,
+          "xmax": 1438,
+          "ymax": 2469
+        },
+        {
+          "text": "asas?",
+          "xmin": 1451,
+          "ymin": 2439,
+          "xmax": 1536,
+          "ymax": 2468
+        },
+        {
+          "text": "(",
+          "xmin": 1549,
+          "ymin": 2443,
+          "xmax": 1555,
+          "ymax": 2465
+        },
+        {
+          "text": "|",
+          "xmin": 1594,
+          "ymin": 2441,
+          "xmax": 1599,
+          "ymax": 2447
+        },
+        {
+          "text": "Sim",
+          "xmin": 1618,
+          "ymin": 2439,
+          "xmax": 1680,
+          "ymax": 2469
+        },
+        {
+          "text": "(",
+          "xmin": 1716,
+          "ymin": 2443,
+          "xmax": 1722,
+          "ymax": 2460
+        },
+        {
+          "text": "Nao",
+          "xmin": 1784,
+          "ymin": 2439,
+          "xmax": 1853,
+          "ymax": 2466
+        },
+        {
+          "text": "12.",
+          "xmin": 360,
+          "ymin": 2510,
+          "xmax": 403,
+          "ymax": 2538
+        },
+        {
+          "text": "Tipo",
+          "xmin": 417,
+          "ymin": 2510,
+          "xmax": 493,
+          "ymax": 2543
+        },
+        {
+          "text": "de",
+          "xmin": 506,
+          "ymin": 2510,
+          "xmax": 543,
+          "ymax": 2538
+        },
+        {
+          "text": "alojamento",
+          "xmin": 557,
+          "ymin": 2510,
+          "xmax": 738,
+          "ymax": 2540
+        },
+        {
+          "text": "(",
+          "xmin": 763,
+          "ymin": 2513,
+          "xmax": 769,
+          "ymax": 2534
+        },
+        {
+          "text": "I",
+          "xmin": 809,
+          "ymin": 2510,
+          "xmax": 815,
+          "ymax": 2532
+        },
+        {
+          "text": "Piquete",
+          "xmin": 832,
+          "ymin": 2510,
+          "xmax": 955,
+          "ymax": 2547
+        },
+        {
+          "text": "|",
+          "xmin": 1035,
+          "ymin": 2513,
+          "xmax": 1040,
+          "ymax": 2536
+        },
+        {
+          "text": "Baia",
+          "xmin": 1057,
+          "ymin": 2510,
+          "xmax": 1132,
+          "ymax": 2538
+        },
+        {
+          "text": "(",
+          "xmin": 1166,
+          "ymin": 2515,
+          "xmax": 1171,
+          "ymax": 2536
+        },
+        {
+          "text": "|",
+          "xmin": 1212,
+          "ymin": 2513,
+          "xmax": 1215,
+          "ymax": 2516
+        },
+        {
+          "text": "Gaiola",
+          "xmin": 1234,
+          "ymin": 2510,
+          "xmax": 1343,
+          "ymax": 2540
+        },
+        {
+          "text": "(",
+          "xmin": 1379,
+          "ymin": 2513,
+          "xmax": 1385,
+          "ymax": 2534
+        },
+        {
+          "text": "|",
+          "xmin": 1424,
+          "ymin": 2510,
+          "xmax": 1430,
+          "ymax": 2535
+        },
+        {
+          "text": "Confinamento/free",
+          "xmin": 1449,
+          "ymin": 2510,
+          "xmax": 1759,
+          "ymax": 2539
+        },
+        {
+          "text": "stall",
+          "xmin": 1773,
+          "ymin": 2510,
+          "xmax": 1839,
+          "ymax": 2538
+        },
+        {
+          "text": "(",
+          "xmin": 1874,
+          "ymin": 2512,
+          "xmax": 1881,
+          "ymax": 2534
+        },
+        {
+          "text": ")",
+          "xmin": 1919,
+          "ymin": 2510,
+          "xmax": 1927,
+          "ymax": 2538
+        },
+        {
+          "text": "Outro",
+          "xmin": 1943,
+          "ymin": 2510,
+          "xmax": 2036,
+          "ymax": 2538
+        },
+        {
+          "text": "13.",
+          "xmin": 360,
+          "ymin": 2581,
+          "xmax": 404,
+          "ymax": 2609
+        },
+        {
+          "text": "Densidade",
+          "xmin": 417,
+          "ymin": 2581,
+          "xmax": 589,
+          "ymax": 2609
+        },
+        {
+          "text": "de",
+          "xmin": 603,
+          "ymin": 2582,
+          "xmax": 641,
+          "ymax": 2609
+        },
+        {
+          "text": "alojamento",
+          "xmin": 654,
+          "ymin": 2581,
+          "xmax": 836,
+          "ymax": 2612
+        },
+        {
+          "text": "(",
+          "xmin": 849,
+          "ymin": 2582,
+          "xmax": 858,
+          "ymax": 2603
+        },
+        {
+          "text": "numero",
+          "xmin": 856,
+          "ymin": 2581,
+          "xmax": 986,
+          "ymax": 2612
+        },
+        {
+          "text": "de",
+          "xmin": 999,
+          "ymin": 2581,
+          "xmax": 1036,
+          "ymax": 2609
+        },
+        {
+          "text": "animais/area",
+          "xmin": 1050,
+          "ymin": 2581,
+          "xmax": 1258,
+          "ymax": 2610
+        },
+        {
+          "text": "disponivel)",
+          "xmin": 1270,
+          "ymin": 2581,
+          "xmax": 1455,
+          "ymax": 2614
+        },
+        {
+          "text": "14",
+          "xmin": 359,
+          "ymin": 2652,
+          "xmax": 400,
+          "ymax": 2677
+        },
+        {
+          "text": "Ha",
+          "xmin": 417,
+          "ymin": 2651,
+          "xmax": 463,
+          "ymax": 2680
+        },
+        {
+          "text": "ambiente",
+          "xmin": 477,
+          "ymin": 2651,
+          "xmax": 625,
+          "ymax": 2680
+        },
+        {
+          "text": "alternativo?",
+          "xmin": 639,
+          "ymin": 2651,
+          "xmax": 833,
+          "ymax": 2680
+        },
+        {
+          "text": "2(",
+          "xmin": 824,
+          "ymin": 2651,
+          "xmax": 858,
+          "ymax": 2687
+        },
+        {
+          "text": "|",
+          "xmin": 892,
+          "ymin": 2652,
+          "xmax": 897,
+          "ymax": 2659
+        },
+        {
+          "text": "Sim",
+          "xmin": 917,
+          "ymin": 2651,
+          "xmax": 978,
+          "ymax": 2680
+        },
+        {
+          "text": "(",
+          "xmin": 1015,
+          "ymin": 2654,
+          "xmax": 1021,
+          "ymax": 2676
+        },
+        {
+          "text": "|",
+          "xmin": 1060,
+          "ymin": 2652,
+          "xmax": 1065,
+          "ymax": 2659
+        },
+        {
+          "text": "Nao",
+          "xmin": 1082,
+          "ymin": 2651,
+          "xmax": 1151,
+          "ymax": 2680
+        },
+        {
+          "text": "Se",
+          "xmin": 1216,
+          "ymin": 2651,
+          "xmax": 1255,
+          "ymax": 2680
+        },
+        {
+          "text": "sim",
+          "xmin": 1268,
+          "ymin": 2651,
+          "xmax": 1324,
+          "ymax": 2680
+        },
+        {
+          "text": "porcentagem",
+          "xmin": 1346,
+          "ymin": 2656,
+          "xmax": 1559,
+          "ymax": 2686
+        },
+        {
+          "text": "do",
+          "xmin": 1573,
+          "ymin": 2651,
+          "xmax": 1611,
+          "ymax": 2680
+        },
+        {
+          "text": "tempo",
+          "xmin": 1626,
+          "ymin": 2656,
+          "xmax": 1726,
+          "ymax": 2686
+        },
+        {
+          "text": "utilizado",
+          "xmin": 1739,
+          "ymin": 2651,
+          "xmax": 1884,
+          "ymax": 2680
+        },
+        {
+          "text": "15.",
+          "xmin": 359,
+          "ymin": 2722,
+          "xmax": 404,
+          "ymax": 2751
+        },
+        {
+          "text": "Superficie",
+          "xmin": 418,
+          "ymin": 2722,
+          "xmax": 584,
+          "ymax": 2758
+        },
+        {
+          "text": "de",
+          "xmin": 598,
+          "ymin": 2723,
+          "xmax": 636,
+          "ymax": 2751
+        },
+        {
+          "text": "contato",
+          "xmin": 648,
+          "ymin": 2726,
+          "xmax": 767,
+          "ymax": 2751
+        },
+        {
+          "text": "com",
+          "xmin": 781,
+          "ymin": 2731,
+          "xmax": 847,
+          "ymax": 2751
+        },
+        {
+          "text": "C",
+          "xmin": 864,
+          "ymin": 2731,
+          "xmax": 877,
+          "ymax": 2749
+        },
+        {
+          "text": "animal",
+          "xmin": 895,
+          "ymin": 2723,
+          "xmax": 1003,
+          "ymax": 2751
+        },
+        {
+          "text": "(",
+          "xmin": 1030,
+          "ymin": 2724,
+          "xmax": 1037,
+          "ymax": 2745
+        },
+        {
+          "text": ")",
+          "xmin": 1075,
+          "ymin": 2723,
+          "xmax": 1082,
+          "ymax": 2749
+        },
+        {
+          "text": "Grama",
+          "xmin": 1099,
+          "ymin": 2722,
+          "xmax": 1208,
+          "ymax": 2751
+        },
+        {
+          "text": "(",
+          "xmin": 1244,
+          "ymin": 2724,
+          "xmax": 1251,
+          "ymax": 2747
+        },
+        {
+          "text": "|",
+          "xmin": 1289,
+          "ymin": 2722,
+          "xmax": 1295,
+          "ymax": 2747
+        },
+        {
+          "text": "Concreto",
+          "xmin": 1313,
+          "ymin": 2722,
+          "xmax": 1461,
+          "ymax": 2751
+        },
+        {
+          "text": "(",
+          "xmin": 1497,
+          "ymin": 2726,
+          "xmax": 1503,
+          "ymax": 2745
+        },
+        {
+          "text": "|",
+          "xmin": 1542,
+          "ymin": 2724,
+          "xmax": 1547,
+          "ymax": 2730
+        },
+        {
+          "text": "Cama",
+          "xmin": 1566,
+          "ymin": 2722,
+          "xmax": 1660,
+          "ymax": 2751
+        },
+        {
+          "text": "(",
+          "xmin": 1694,
+          "ymin": 2726,
+          "xmax": 1700,
+          "ymax": 2745
+        },
+        {
+          "text": ")",
+          "xmin": 1739,
+          "ymin": 2723,
+          "xmax": 1746,
+          "ymax": 2749
+        },
+        {
+          "text": "Outra",
+          "xmin": 1763,
+          "ymin": 2722,
+          "xmax": 1855,
+          "ymax": 2751
+        },
+        {
+          "text": "16.",
+          "xmin": 360,
+          "ymin": 2793,
+          "xmax": 404,
+          "ymax": 2822
+        },
+        {
+          "text": "As",
+          "xmin": 418,
+          "ymin": 2794,
+          "xmax": 460,
+          "ymax": 2822
+        },
+        {
+          "text": "superficies",
+          "xmin": 474,
+          "ymin": 2793,
+          "xmax": 651,
+          "ymax": 2830
+        },
+        {
+          "text": "de",
+          "xmin": 665,
+          "ymin": 2793,
+          "xmax": 701,
+          "ymax": 2822
+        },
+        {
+          "text": "contato",
+          "xmin": 714,
+          "ymin": 2797,
+          "xmax": 833,
+          "ymax": 2822
+        },
+        {
+          "text": "sao",
+          "xmin": 848,
+          "ymin": 2795,
+          "xmax": 899,
+          "ymax": 2822
+        },
+        {
+          "text": "adequadas",
+          "xmin": 915,
+          "ymin": 2793,
+          "xmax": 1082,
+          "ymax": 2825
+        },
+        {
+          "text": "as",
+          "xmin": 1099,
+          "ymin": 2794,
+          "xmax": 1129,
+          "ymax": 2822
+        },
+        {
+          "text": "necessidades",
+          "xmin": 1142,
+          "ymin": 2793,
+          "xmax": 1354,
+          "ymax": 2822
+        },
+        {
+          "text": "do",
+          "xmin": 1367,
+          "ymin": 2794,
+          "xmax": 1407,
+          "ymax": 2822
+        },
+        {
+          "text": "animal?",
+          "xmin": 1420,
+          "ymin": 2793,
+          "xmax": 1548,
+          "ymax": 2822
+        },
+        {
+          "text": "(",
+          "xmin": 1563,
+          "ymin": 2795,
+          "xmax": 1570,
+          "ymax": 2820
+        },
+        {
+          "text": ")",
+          "xmin": 1609,
+          "ymin": 2793,
+          "xmax": 1617,
+          "ymax": 2820
+        },
+        {
+          "text": "Sim",
+          "xmin": 1634,
+          "ymin": 2793,
+          "xmax": 1694,
+          "ymax": 2822
+        },
+        {
+          "text": "(",
+          "xmin": 1731,
+          "ymin": 2798,
+          "xmax": 1736,
+          "ymax": 2813
+        },
+        {
+          "text": "1",
+          "xmin": 1776,
+          "ymin": 2794,
+          "xmax": 1784,
+          "ymax": 2820
+        },
+        {
+          "text": "Nao",
+          "xmin": 1799,
+          "ymin": 2793,
+          "xmax": 1866,
+          "ymax": 2822
+        },
+        {
+          "text": "17.",
+          "xmin": 359,
+          "ymin": 2864,
+          "xmax": 404,
+          "ymax": 2891
+        },
+        {
+          "text": "Condicao",
+          "xmin": 400,
+          "ymin": 2864,
+          "xmax": 575,
+          "ymax": 2897
+        },
+        {
+          "text": "de",
+          "xmin": 587,
+          "ymin": 2864,
+          "xmax": 625,
+          "ymax": 2891
+        },
+        {
+          "text": "limpeza",
+          "xmin": 637,
+          "ymin": 2864,
+          "xmax": 767,
+          "ymax": 2899
+        },
+        {
+          "text": "do",
+          "xmin": 779,
+          "ymin": 2864,
+          "xmax": 819,
+          "ymax": 2891
+        },
+        {
+          "text": "ambiente",
+          "xmin": 832,
+          "ymin": 2864,
+          "xmax": 981,
+          "ymax": 2893
+        },
+        {
+          "text": "(",
+          "xmin": 1006,
+          "ymin": 2866,
+          "xmax": 1013,
+          "ymax": 2887
+        },
+        {
+          "text": "Ruim",
+          "xmin": 1076,
+          "ymin": 2864,
+          "xmax": 1162,
+          "ymax": 2891
+        },
+        {
+          "text": "(",
+          "xmin": 1199,
+          "ymin": 2869,
+          "xmax": 1204,
+          "ymax": 2887
+        },
+        {
+          "text": "Regular",
+          "xmin": 1268,
+          "ymin": 2864,
+          "xmax": 1398,
+          "ymax": 2902
+        },
+        {
+          "text": "(",
+          "xmin": 1432,
+          "ymin": 2865,
+          "xmax": 1441,
+          "ymax": 2891
+        },
+        {
+          "text": "Boa",
+          "xmin": 1501,
+          "ymin": 2864,
+          "xmax": 1565,
+          "ymax": 2891
+        },
+        {
+          "text": "(",
+          "xmin": 1600,
+          "ymin": 2866,
+          "xmax": 1607,
+          "ymax": 2887
+        },
+        {
+          "text": "Excelente",
+          "xmin": 1667,
+          "ymin": 2864,
+          "xmax": 1828,
+          "ymax": 2893
+        },
+        {
+          "text": "Observacdes",
+          "xmin": 355,
+          "ymin": 2935,
+          "xmax": 565,
+          "ymax": 2969
+        },
+        {
+          "text": "Parecer",
+          "xmin": 355,
+          "ymin": 3006,
+          "xmax": 479,
+          "ymax": 3035
+        },
+        {
+          "text": "referente",
+          "xmin": 489,
+          "ymin": 3006,
+          "xmax": 636,
+          "ymax": 3035
+        },
+        {
+          "text": "ao",
+          "xmin": 649,
+          "ymin": 3015,
+          "xmax": 685,
+          "ymax": 3035
+        },
+        {
+          "text": "conforto:",
+          "xmin": 698,
+          "ymin": 3006,
+          "xmax": 847,
+          "ymax": 3035
+        },
+        {
+          "text": "(",
+          "xmin": 861,
+          "ymin": 3007,
+          "xmax": 870,
+          "ymax": 3030
+        },
+        {
+          "text": ")",
+          "xmin": 907,
+          "ymin": 3006,
+          "xmax": 915,
+          "ymax": 3031
+        },
+        {
+          "text": "Inadequado",
+          "xmin": 930,
+          "ymin": 3006,
+          "xmax": 1121,
+          "ymax": 3042
+        },
+        {
+          "text": "(",
+          "xmin": 1156,
+          "ymin": 3007,
+          "xmax": 1165,
+          "ymax": 3031
+        },
+        {
+          "text": ")",
+          "xmin": 1203,
+          "ymin": 3006,
+          "xmax": 1211,
+          "ymax": 3031
+        },
+        {
+          "text": "Regular",
+          "xmin": 1220,
+          "ymin": 3006,
+          "xmax": 1357,
+          "ymax": 3044
+        },
+        {
+          "text": "(",
+          "xmin": 1390,
+          "ymin": 3006,
+          "xmax": 1400,
+          "ymax": 3031
+        },
+        {
+          "text": "|",
+          "xmin": 1435,
+          "ymin": 3006,
+          "xmax": 1441,
+          "ymax": 3031
+        },
+        {
+          "text": "Adequado",
+          "xmin": 1460,
+          "ymin": 3006,
+          "xmax": 1628,
+          "ymax": 3041
+        }
+      ],
+      "raw_text": "PROTOCOLO DE AVALIACAO DE BEM-ESTAR ANIMAL E MAUS TRATOS ADAPTADO DO PROTOCOLO DE PERICIA EM BEM-ESTAR ANIMALDO LABEA/UFPR Data de solicitacao Data da vistoria / Hora da vistoria Produtor Endereco Bairro Responsavel pela avaliacao Identificacao do( s) animal(is | Especie ( | Bovino ( ) Equino ( | Suino ( ) Aves ( 1 Outro Categoria Finalidade da criacao Raca Numero de animais do rebanho Aloiamento | Campo ( ` Confinado ( 1 Semi Area por animal AVALIACAO DE BEM-ESTAR ANIMAL E DIAGNOSTICO DE MAUS-TRATOS Indicadores nutricionais 1. Escore corporal ( 1-5 1 2 Disponibilidade de agua fresca: ( | Sim ( ) Nao 3. Alimentacao ( ) Pastagem ( ) Concentrado ( 1 Volumoso 4. Suplementacao ( | Sim ( ) Nao ( ) Qual 5. Condicoes do bebedouro ( ) Limpo ( | Parcialmente suio ( | Sujo 6. Condicoes do comedouro ( ) Limpo ( | Parcialmente suio ( ) Suio Comentarios Parecer referente a nutricao: ( | Inadequado ( 1 Regular ( | Adequado Indicadores de conforto 7.Ha abrigo fixo? ( | Sim ( | Nao 8. .s animais tem acesso a sombra e protecao contra vento? ( ) Sim ( ) Nao 9. Temperatura ambiente Esta na zona de conforto termico da especie/raca? ( ) Sim ( | Nao 10. Ha superficie confortavel para descanso? ( | Sim ( ) Nao 11. . espaco disponivel permite pequenas corridas ou voos/bater asas? ( | Sim ( Nao 12. Tipo de alojamento ( I Piquete | Baia ( | Gaiola ( | Confinamento/free stall ( ) Outro 13. Densidade de alojamento ( numero de animais/area disponivel) 14 Ha ambiente alternativo? 2( | Sim ( | Nao Se sim porcentagem do tempo utilizado 15. Superficie de contato com C animal ( ) Grama ( | Concreto ( | Cama ( ) Outra 16. As superficies de contato sao adequadas as necessidades do animal? ( ) Sim ( 1 Nao 17. Condicao de limpeza do ambiente ( Ruim ( Regular ( Boa ( Excelente Observacdes Parecer referente ao conforto: ( ) Inadequado ( ) Regular ( | Adequado "
+    },
+    {
+      "page": 1,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/a623f2ef-d486-4bf0-8f9b-71131f2fc126-2.jpeg?ik-s=cfc604d363b8ae2df403a14622b49e604493b4bd&ik-t=1743218630",
+      "size": {
+        "width": 2481,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "Indicadores",
+          "xmin": 355,
+          "ymin": 329,
+          "xmax": 547,
+          "ymax": 358
+        },
+        {
+          "text": "de",
+          "xmin": 559,
+          "ymin": 330,
+          "xmax": 597,
+          "ymax": 358
+        },
+        {
+          "text": "sauide",
+          "xmin": 610,
+          "ymin": 329,
+          "xmax": 702,
+          "ymax": 358
+        },
+        {
+          "text": "18.",
+          "xmin": 359,
+          "ymin": 402,
+          "xmax": 404,
+          "ymax": 430
+        },
+        {
+          "text": "Arqueamento",
+          "xmin": 417,
+          "ymin": 403,
+          "xmax": 641,
+          "ymax": 438
+        },
+        {
+          "text": "de",
+          "xmin": 654,
+          "ymin": 403,
+          "xmax": 691,
+          "ymax": 430
+        },
+        {
+          "text": "dorso",
+          "xmin": 704,
+          "ymin": 402,
+          "xmax": 794,
+          "ymax": 430
+        },
+        {
+          "text": "(",
+          "xmin": 819,
+          "ymin": 403,
+          "xmax": 828,
+          "ymax": 427
+        },
+        {
+          "text": ")",
+          "xmin": 864,
+          "ymin": 402,
+          "xmax": 871,
+          "ymax": 427
+        },
+        {
+          "text": "Sim",
+          "xmin": 888,
+          "ymin": 402,
+          "xmax": 951,
+          "ymax": 430
+        },
+        {
+          "text": "(",
+          "xmin": 987,
+          "ymin": 403,
+          "xmax": 995,
+          "ymax": 427
+        },
+        {
+          "text": ")",
+          "xmin": 1031,
+          "ymin": 402,
+          "xmax": 1039,
+          "ymax": 430
+        },
+        {
+          "text": "Nao",
+          "xmin": 1054,
+          "ymin": 402,
+          "xmax": 1121,
+          "ymax": 430
+        },
+        {
+          "text": "19.",
+          "xmin": 360,
+          "ymin": 473,
+          "xmax": 404,
+          "ymax": 501
+        },
+        {
+          "text": "Dor",
+          "xmin": 418,
+          "ymin": 473,
+          "xmax": 481,
+          "ymax": 501
+        },
+        {
+          "text": "a",
+          "xmin": 493,
+          "ymin": 473,
+          "xmax": 504,
+          "ymax": 499
+        },
+        {
+          "text": "manipulacao/palpacao:",
+          "xmin": 521,
+          "ymin": 473,
+          "xmax": 901,
+          "ymax": 507
+        },
+        {
+          "text": "(",
+          "xmin": 916,
+          "ymin": 477,
+          "xmax": 922,
+          "ymax": 495
+        },
+        {
+          "text": ")",
+          "xmin": 962,
+          "ymin": 473,
+          "xmax": 970,
+          "ymax": 501
+        },
+        {
+          "text": "Sim",
+          "xmin": 986,
+          "ymin": 473,
+          "xmax": 1047,
+          "ymax": 501
+        },
+        {
+          "text": "(",
+          "xmin": 1084,
+          "ymin": 478,
+          "xmax": 1089,
+          "ymax": 497
+        },
+        {
+          "text": "Nao",
+          "xmin": 1151,
+          "ymin": 473,
+          "xmax": 1219,
+          "ymax": 501
+        },
+        {
+          "text": "20.",
+          "xmin": 356,
+          "ymin": 544,
+          "xmax": 404,
+          "ymax": 573
+        },
+        {
+          "text": "Alteracao",
+          "xmin": 418,
+          "ymin": 545,
+          "xmax": 575,
+          "ymax": 578
+        },
+        {
+          "text": "de",
+          "xmin": 589,
+          "ymin": 545,
+          "xmax": 627,
+          "ymax": 573
+        },
+        {
+          "text": "postura",
+          "xmin": 638,
+          "ymin": 549,
+          "xmax": 759,
+          "ymax": 578
+        },
+        {
+          "text": "(",
+          "xmin": 785,
+          "ymin": 548,
+          "xmax": 791,
+          "ymax": 566
+        },
+        {
+          "text": "1",
+          "xmin": 830,
+          "ymin": 545,
+          "xmax": 837,
+          "ymax": 566
+        },
+        {
+          "text": "Sim",
+          "xmin": 853,
+          "ymin": 544,
+          "xmax": 915,
+          "ymax": 573
+        },
+        {
+          "text": "(",
+          "xmin": 951,
+          "ymin": 546,
+          "xmax": 958,
+          "ymax": 566
+        },
+        {
+          "text": ")",
+          "xmin": 996,
+          "ymin": 544,
+          "xmax": 1003,
+          "ymax": 570
+        },
+        {
+          "text": "Nao",
+          "xmin": 1019,
+          "ymin": 544,
+          "xmax": 1085,
+          "ymax": 573
+        },
+        {
+          "text": "21.",
+          "xmin": 356,
+          "ymin": 614,
+          "xmax": 418,
+          "ymax": 640
+        },
+        {
+          "text": "Locomocao",
+          "xmin": 416,
+          "ymin": 614,
+          "xmax": 611,
+          "ymax": 650
+        },
+        {
+          "text": "(",
+          "xmin": 636,
+          "ymin": 616,
+          "xmax": 643,
+          "ymax": 637
+        },
+        {
+          "text": "1",
+          "xmin": 682,
+          "ymin": 616,
+          "xmax": 689,
+          "ymax": 637
+        },
+        {
+          "text": "Normal",
+          "xmin": 704,
+          "ymin": 614,
+          "xmax": 828,
+          "ymax": 643
+        },
+        {
+          "text": "(",
+          "xmin": 864,
+          "ymin": 618,
+          "xmax": 870,
+          "ymax": 634
+        },
+        {
+          "text": "|",
+          "xmin": 909,
+          "ymin": 614,
+          "xmax": 915,
+          "ymax": 638
+        },
+        {
+          "text": "Claudicacao",
+          "xmin": 933,
+          "ymin": 614,
+          "xmax": 1134,
+          "ymax": 647
+        },
+        {
+          "text": "leve",
+          "xmin": 1150,
+          "ymin": 615,
+          "xmax": 1217,
+          "ymax": 641
+        },
+        {
+          "text": "(",
+          "xmin": 1251,
+          "ymin": 619,
+          "xmax": 1256,
+          "ymax": 637
+        },
+        {
+          "text": "1",
+          "xmin": 1296,
+          "ymin": 614,
+          "xmax": 1304,
+          "ymax": 638
+        },
+        {
+          "text": "Claudicacao",
+          "xmin": 1321,
+          "ymin": 614,
+          "xmax": 1521,
+          "ymax": 647
+        },
+        {
+          "text": "severa",
+          "xmin": 1536,
+          "ymin": 623,
+          "xmax": 1639,
+          "ymax": 644
+        },
+        {
+          "text": "(",
+          "xmin": 1674,
+          "ymin": 616,
+          "xmax": 1681,
+          "ymax": 637
+        },
+        {
+          "text": "|",
+          "xmin": 1719,
+          "ymin": 616,
+          "xmax": 1725,
+          "ymax": 637
+        },
+        {
+          "text": "Recusa",
+          "xmin": 1742,
+          "ymin": 614,
+          "xmax": 1858,
+          "ymax": 643
+        },
+        {
+          "text": "levantar",
+          "xmin": 1873,
+          "ymin": 614,
+          "xmax": 2005,
+          "ymax": 644
+        },
+        {
+          "text": "22.",
+          "xmin": 356,
+          "ymin": 685,
+          "xmax": 400,
+          "ymax": 712
+        },
+        {
+          "text": "Secrecoes",
+          "xmin": 418,
+          "ymin": 685,
+          "xmax": 582,
+          "ymax": 719
+        },
+        {
+          "text": "corporais",
+          "xmin": 594,
+          "ymin": 685,
+          "xmax": 746,
+          "ymax": 722
+        },
+        {
+          "text": "Sim",
+          "xmin": 841,
+          "ymin": 685,
+          "xmax": 904,
+          "ymax": 715
+        },
+        {
+          "text": ")",
+          "xmin": 984,
+          "ymin": 685,
+          "xmax": 991,
+          "ymax": 711
+        },
+        {
+          "text": "Nao",
+          "xmin": 1006,
+          "ymin": 685,
+          "xmax": 1074,
+          "ymax": 712
+        },
+        {
+          "text": "Local",
+          "xmin": 1128,
+          "ymin": 685,
+          "xmax": 1223,
+          "ymax": 714
+        },
+        {
+          "text": "Aspecto",
+          "xmin": 1620,
+          "ymin": 686,
+          "xmax": 1752,
+          "ymax": 723
+        },
+        {
+          "text": "23.",
+          "xmin": 356,
+          "ymin": 756,
+          "xmax": 404,
+          "ymax": 784
+        },
+        {
+          "text": "Mucosas",
+          "xmin": 416,
+          "ymin": 756,
+          "xmax": 563,
+          "ymax": 785
+        },
+        {
+          "text": "(",
+          "xmin": 588,
+          "ymin": 758,
+          "xmax": 596,
+          "ymax": 782
+        },
+        {
+          "text": ")",
+          "xmin": 633,
+          "ymin": 757,
+          "xmax": 640,
+          "ymax": 782
+        },
+        {
+          "text": "Normais",
+          "xmin": 656,
+          "ymin": 756,
+          "xmax": 797,
+          "ymax": 785
+        },
+        {
+          "text": "(",
+          "xmin": 831,
+          "ymin": 759,
+          "xmax": 837,
+          "ymax": 777
+        },
+        {
+          "text": "1",
+          "xmin": 877,
+          "ymin": 757,
+          "xmax": 885,
+          "ymax": 781
+        },
+        {
+          "text": "Hipocoradas",
+          "xmin": 900,
+          "ymin": 756,
+          "xmax": 1108,
+          "ymax": 792
+        },
+        {
+          "text": "(",
+          "xmin": 1143,
+          "ymin": 759,
+          "xmax": 1150,
+          "ymax": 780
+        },
+        {
+          "text": "|",
+          "xmin": 1188,
+          "ymin": 757,
+          "xmax": 1193,
+          "ymax": 765
+        },
+        {
+          "text": "Hiperemicas",
+          "xmin": 1211,
+          "ymin": 756,
+          "xmax": 1419,
+          "ymax": 789
+        },
+        {
+          "text": "`",
+          "xmin": 1501,
+          "ymin": 757,
+          "xmax": 1506,
+          "ymax": 764
+        },
+        {
+          "text": "Ictericas",
+          "xmin": 1524,
+          "ymin": 756,
+          "xmax": 1661,
+          "ymax": 784
+        },
+        {
+          "text": "(",
+          "xmin": 1697,
+          "ymin": 759,
+          "xmax": 1703,
+          "ymax": 780
+        },
+        {
+          "text": "|",
+          "xmin": 1742,
+          "ymin": 756,
+          "xmax": 1748,
+          "ymax": 781
+        },
+        {
+          "text": "Cianoticas",
+          "xmin": 1765,
+          "ymin": 756,
+          "xmax": 1937,
+          "ymax": 784
+        },
+        {
+          "text": "24.",
+          "xmin": 356,
+          "ymin": 827,
+          "xmax": 400,
+          "ymax": 855
+        },
+        {
+          "text": "Hidratacao:",
+          "xmin": 417,
+          "ymin": 827,
+          "xmax": 608,
+          "ymax": 862
+        },
+        {
+          "text": "(",
+          "xmin": 623,
+          "ymin": 830,
+          "xmax": 629,
+          "ymax": 851
+        },
+        {
+          "text": "|",
+          "xmin": 668,
+          "ymin": 827,
+          "xmax": 673,
+          "ymax": 854
+        },
+        {
+          "text": "Normal",
+          "xmin": 690,
+          "ymin": 827,
+          "xmax": 817,
+          "ymax": 855
+        },
+        {
+          "text": "(",
+          "xmin": 850,
+          "ymin": 828,
+          "xmax": 859,
+          "ymax": 848
+        },
+        {
+          "text": ")",
+          "xmin": 895,
+          "ymin": 828,
+          "xmax": 902,
+          "ymax": 855
+        },
+        {
+          "text": "Desidratacao",
+          "xmin": 918,
+          "ymin": 827,
+          "xmax": 1132,
+          "ymax": 860
+        },
+        {
+          "text": "leve",
+          "xmin": 1146,
+          "ymin": 828,
+          "xmax": 1214,
+          "ymax": 855
+        },
+        {
+          "text": "(",
+          "xmin": 1248,
+          "ymin": 830,
+          "xmax": 1254,
+          "ymax": 845
+        },
+        {
+          "text": ")",
+          "xmin": 1292,
+          "ymin": 827,
+          "xmax": 1299,
+          "ymax": 855
+        },
+        {
+          "text": "Desidratacao",
+          "xmin": 1316,
+          "ymin": 827,
+          "xmax": 1530,
+          "ymax": 861
+        },
+        {
+          "text": "severa",
+          "xmin": 1544,
+          "ymin": 836,
+          "xmax": 1646,
+          "ymax": 854
+        },
+        {
+          "text": "25.",
+          "xmin": 356,
+          "ymin": 898,
+          "xmax": 404,
+          "ymax": 926
+        },
+        {
+          "text": "Fezes:",
+          "xmin": 416,
+          "ymin": 898,
+          "xmax": 515,
+          "ymax": 926
+        },
+        {
+          "text": "(",
+          "xmin": 535,
+          "ymin": 901,
+          "xmax": 541,
+          "ymax": 919
+        },
+        {
+          "text": "`",
+          "xmin": 580,
+          "ymin": 898,
+          "xmax": 585,
+          "ymax": 906
+        },
+        {
+          "text": "Normais",
+          "xmin": 603,
+          "ymin": 898,
+          "xmax": 743,
+          "ymax": 926
+        },
+        {
+          "text": "(",
+          "xmin": 779,
+          "ymin": 900,
+          "xmax": 785,
+          "ymax": 922
+        },
+        {
+          "text": "|",
+          "xmin": 825,
+          "ymin": 901,
+          "xmax": 829,
+          "ymax": 907
+        },
+        {
+          "text": "Diarreia",
+          "xmin": 848,
+          "ymin": 898,
+          "xmax": 981,
+          "ymax": 926
+        },
+        {
+          "text": "(",
+          "xmin": 1015,
+          "ymin": 899,
+          "xmax": 1025,
+          "ymax": 923
+        },
+        {
+          "text": "|",
+          "xmin": 1060,
+          "ymin": 898,
+          "xmax": 1066,
+          "ymax": 926
+        },
+        {
+          "text": "Observacdes",
+          "xmin": 1084,
+          "ymin": 898,
+          "xmax": 1294,
+          "ymax": 933
+        },
+        {
+          "text": "26.",
+          "xmin": 356,
+          "ymin": 969,
+          "xmax": 404,
+          "ymax": 997
+        },
+        {
+          "text": "Pelagem/plumagem",
+          "xmin": 418,
+          "ymin": 969,
+          "xmax": 746,
+          "ymax": 1007
+        },
+        {
+          "text": "(",
+          "xmin": 771,
+          "ymin": 972,
+          "xmax": 777,
+          "ymax": 993
+        },
+        {
+          "text": "Normais",
+          "xmin": 838,
+          "ymin": 969,
+          "xmax": 981,
+          "ymax": 997
+        },
+        {
+          "text": "(",
+          "xmin": 1015,
+          "ymin": 971,
+          "xmax": 1023,
+          "ymax": 991
+        },
+        {
+          "text": "|",
+          "xmin": 1061,
+          "ymin": 972,
+          "xmax": 1065,
+          "ymax": 978
+        },
+        {
+          "text": "Opaca",
+          "xmin": 1085,
+          "ymin": 969,
+          "xmax": 1189,
+          "ymax": 1005
+        },
+        {
+          "text": "(",
+          "xmin": 1222,
+          "ymin": 972,
+          "xmax": 1229,
+          "ymax": 991
+        },
+        {
+          "text": ")",
+          "xmin": 1267,
+          "ymin": 969,
+          "xmax": 1274,
+          "ymax": 995
+        },
+        {
+          "text": "Arrepiada",
+          "xmin": 1291,
+          "ymin": 969,
+          "xmax": 1455,
+          "ymax": 1003
+        },
+        {
+          "text": "(",
+          "xmin": 1489,
+          "ymin": 973,
+          "xmax": 1495,
+          "ymax": 993
+        },
+        {
+          "text": "|",
+          "xmin": 1534,
+          "ymin": 970,
+          "xmax": 1540,
+          "ymax": 995
+        },
+        {
+          "text": "Com",
+          "xmin": 1557,
+          "ymin": 969,
+          "xmax": 1633,
+          "ymax": 997
+        },
+        {
+          "text": "falhas",
+          "xmin": 1648,
+          "ymin": 969,
+          "xmax": 1743,
+          "ymax": 997
+        },
+        {
+          "text": "27.",
+          "xmin": 356,
+          "ymin": 1039,
+          "xmax": 404,
+          "ymax": 1068
+        },
+        {
+          "text": "Ectoparasitas",
+          "xmin": 416,
+          "ymin": 1039,
+          "xmax": 637,
+          "ymax": 1076
+        },
+        {
+          "text": "(",
+          "xmin": 662,
+          "ymin": 1044,
+          "xmax": 667,
+          "ymax": 1062
+        },
+        {
+          "text": ")",
+          "xmin": 707,
+          "ymin": 1040,
+          "xmax": 715,
+          "ymax": 1066
+        },
+        {
+          "text": "Sim",
+          "xmin": 732,
+          "ymin": 1039,
+          "xmax": 792,
+          "ymax": 1069
+        },
+        {
+          "text": "(",
+          "xmin": 829,
+          "ymin": 1041,
+          "xmax": 837,
+          "ymax": 1062
+        },
+        {
+          "text": ")",
+          "xmin": 874,
+          "ymin": 1040,
+          "xmax": 882,
+          "ymax": 1066
+        },
+        {
+          "text": "Nao",
+          "xmin": 897,
+          "ymin": 1039,
+          "xmax": 965,
+          "ymax": 1068
+        },
+        {
+          "text": "Quais",
+          "xmin": 998,
+          "ymin": 1039,
+          "xmax": 1093,
+          "ymax": 1071
+        },
+        {
+          "text": "28.",
+          "xmin": 356,
+          "ymin": 1110,
+          "xmax": 403,
+          "ymax": 1137
+        },
+        {
+          "text": "Prurido:",
+          "xmin": 417,
+          "ymin": 1110,
+          "xmax": 550,
+          "ymax": 1139
+        },
+        {
+          "text": "(",
+          "xmin": 566,
+          "ymin": 1114,
+          "xmax": 571,
+          "ymax": 1130
+        },
+        {
+          "text": ")",
+          "xmin": 610,
+          "ymin": 1111,
+          "xmax": 617,
+          "ymax": 1137
+        },
+        {
+          "text": "Sim",
+          "xmin": 634,
+          "ymin": 1110,
+          "xmax": 696,
+          "ymax": 1140
+        },
+        {
+          "text": "|",
+          "xmin": 777,
+          "ymin": 1112,
+          "xmax": 782,
+          "ymax": 1119
+        },
+        {
+          "text": "Nao",
+          "xmin": 800,
+          "ymin": 1110,
+          "xmax": 866,
+          "ymax": 1137
+        },
+        {
+          "text": "29.",
+          "xmin": 356,
+          "ymin": 1181,
+          "xmax": 404,
+          "ymax": 1208
+        },
+        {
+          "text": "Lesoes",
+          "xmin": 400,
+          "ymin": 1181,
+          "xmax": 530,
+          "ymax": 1208
+        },
+        {
+          "text": "ou",
+          "xmin": 543,
+          "ymin": 1190,
+          "xmax": 581,
+          "ymax": 1210
+        },
+        {
+          "text": "ferimentos",
+          "xmin": 596,
+          "ymin": 1181,
+          "xmax": 771,
+          "ymax": 1208
+        },
+        {
+          "text": "(",
+          "xmin": 796,
+          "ymin": 1183,
+          "xmax": 804,
+          "ymax": 1207
+        },
+        {
+          "text": ")",
+          "xmin": 841,
+          "ymin": 1181,
+          "xmax": 849,
+          "ymax": 1206
+        },
+        {
+          "text": "Sim",
+          "xmin": 865,
+          "ymin": 1181,
+          "xmax": 926,
+          "ymax": 1211
+        },
+        {
+          "text": "(",
+          "xmin": 964,
+          "ymin": 1182,
+          "xmax": 973,
+          "ymax": 1206
+        },
+        {
+          "text": "`",
+          "xmin": 1010,
+          "ymin": 1181,
+          "xmax": 1015,
+          "ymax": 1190
+        },
+        {
+          "text": "Nao",
+          "xmin": 1032,
+          "ymin": 1181,
+          "xmax": 1099,
+          "ymax": 1208
+        },
+        {
+          "text": "Descreva",
+          "xmin": 1134,
+          "ymin": 1182,
+          "xmax": 1286,
+          "ymax": 1210
+        },
+        {
+          "text": "30.",
+          "xmin": 356,
+          "ymin": 1323,
+          "xmax": 404,
+          "ymax": 1351
+        },
+        {
+          "text": "Cicatrizes",
+          "xmin": 417,
+          "ymin": 1323,
+          "xmax": 580,
+          "ymax": 1351
+        },
+        {
+          "text": "(",
+          "xmin": 606,
+          "ymin": 1327,
+          "xmax": 612,
+          "ymax": 1344
+        },
+        {
+          "text": "1",
+          "xmin": 652,
+          "ymin": 1323,
+          "xmax": 659,
+          "ymax": 1347
+        },
+        {
+          "text": "Sim",
+          "xmin": 677,
+          "ymin": 1323,
+          "xmax": 737,
+          "ymax": 1351
+        },
+        {
+          "text": "marcar",
+          "xmin": 777,
+          "ymin": 1332,
+          "xmax": 892,
+          "ymax": 1352
+        },
+        {
+          "text": "e",
+          "xmin": 903,
+          "ymin": 1332,
+          "xmax": 915,
+          "ymax": 1348
+        },
+        {
+          "text": "descrever",
+          "xmin": 932,
+          "ymin": 1323,
+          "xmax": 1090,
+          "ymax": 1351
+        },
+        {
+          "text": "na",
+          "xmin": 1102,
+          "ymin": 1332,
+          "xmax": 1139,
+          "ymax": 1351
+        },
+        {
+          "text": "resenha",
+          "xmin": 1150,
+          "ymin": 1323,
+          "xmax": 1274,
+          "ymax": 1351
+        },
+        {
+          "text": "(",
+          "xmin": 1310,
+          "ymin": 1325,
+          "xmax": 1317,
+          "ymax": 1347
+        },
+        {
+          "text": ")",
+          "xmin": 1355,
+          "ymin": 1323,
+          "xmax": 1362,
+          "ymax": 1351
+        },
+        {
+          "text": "Nao",
+          "xmin": 1378,
+          "ymin": 1323,
+          "xmax": 1444,
+          "ymax": 1351
+        },
+        {
+          "text": "31.",
+          "xmin": 356,
+          "ymin": 1394,
+          "xmax": 404,
+          "ymax": 1421
+        },
+        {
+          "text": "|",
+          "xmin": 418,
+          "ymin": 1394,
+          "xmax": 421,
+          "ymax": 1400
+        },
+        {
+          "text": "Vacinas",
+          "xmin": 418,
+          "ymin": 1394,
+          "xmax": 549,
+          "ymax": 1422
+        },
+        {
+          "text": "(",
+          "xmin": 574,
+          "ymin": 1398,
+          "xmax": 580,
+          "ymax": 1418
+        },
+        {
+          "text": "Sim",
+          "xmin": 644,
+          "ymin": 1394,
+          "xmax": 707,
+          "ymax": 1422
+        },
+        {
+          "text": "(",
+          "xmin": 741,
+          "ymin": 1394,
+          "xmax": 751,
+          "ymax": 1420
+        },
+        {
+          "text": "I",
+          "xmin": 787,
+          "ymin": 1395,
+          "xmax": 795,
+          "ymax": 1422
+        },
+        {
+          "text": "Nao",
+          "xmin": 809,
+          "ymin": 1394,
+          "xmax": 877,
+          "ymax": 1422
+        },
+        {
+          "text": "(",
+          "xmin": 912,
+          "ymin": 1397,
+          "xmax": 919,
+          "ymax": 1415
+        },
+        {
+          "text": ")",
+          "xmin": 956,
+          "ymin": 1394,
+          "xmax": 965,
+          "ymax": 1422
+        },
+        {
+          "text": "Atrasadas",
+          "xmin": 981,
+          "ymin": 1395,
+          "xmax": 1143,
+          "ymax": 1422
+        },
+        {
+          "text": "32.",
+          "xmin": 356,
+          "ymin": 1464,
+          "xmax": 404,
+          "ymax": 1491
+        },
+        {
+          "text": "Desverminado:",
+          "xmin": 417,
+          "ymin": 1464,
+          "xmax": 668,
+          "ymax": 1494
+        },
+        {
+          "text": "(",
+          "xmin": 683,
+          "ymin": 1468,
+          "xmax": 689,
+          "ymax": 1487
+        },
+        {
+          "text": "|",
+          "xmin": 728,
+          "ymin": 1466,
+          "xmax": 733,
+          "ymax": 1473
+        },
+        {
+          "text": "Sim",
+          "xmin": 752,
+          "ymin": 1464,
+          "xmax": 814,
+          "ymax": 1494
+        },
+        {
+          "text": "|",
+          "xmin": 1145,
+          "ymin": 1466,
+          "xmax": 1150,
+          "ymax": 1473
+        },
+        {
+          "text": "em",
+          "xmin": 828,
+          "ymin": 1473,
+          "xmax": 874,
+          "ymax": 1493
+        },
+        {
+          "text": "Nao",
+          "xmin": 1168,
+          "ymin": 1464,
+          "xmax": 1236,
+          "ymax": 1493
+        },
+        {
+          "text": "33.",
+          "xmin": 356,
+          "ymin": 1535,
+          "xmax": 404,
+          "ymax": 1565
+        },
+        {
+          "text": "Assistencia",
+          "xmin": 400,
+          "ymin": 1535,
+          "xmax": 605,
+          "ymax": 1564
+        },
+        {
+          "text": "veterinaria",
+          "xmin": 618,
+          "ymin": 1535,
+          "xmax": 793,
+          "ymax": 1562
+        },
+        {
+          "text": "(",
+          "xmin": 818,
+          "ymin": 1536,
+          "xmax": 828,
+          "ymax": 1559
+        },
+        {
+          "text": "1",
+          "xmin": 863,
+          "ymin": 1535,
+          "xmax": 871,
+          "ymax": 1559
+        },
+        {
+          "text": "Sim",
+          "xmin": 887,
+          "ymin": 1535,
+          "xmax": 948,
+          "ymax": 1565
+        },
+        {
+          "text": "iltima",
+          "xmin": 989,
+          "ymin": 1535,
+          "xmax": 1093,
+          "ymax": 1564
+        },
+        {
+          "text": "visita",
+          "xmin": 1107,
+          "ymin": 1535,
+          "xmax": 1192,
+          "ymax": 1565
+        },
+        {
+          "text": "|",
+          "xmin": 1473,
+          "ymin": 1537,
+          "xmax": 1478,
+          "ymax": 1543
+        },
+        {
+          "text": "1",
+          "xmin": 1303,
+          "ymin": 1545,
+          "xmax": 1306,
+          "ymax": 1555
+        },
+        {
+          "text": "(",
+          "xmin": 1429,
+          "ymin": 1538,
+          "xmax": 1439,
+          "ymax": 1559
+        },
+        {
+          "text": "Nao",
+          "xmin": 1496,
+          "ymin": 1535,
+          "xmax": 1562,
+          "ymax": 1562
+        },
+        {
+          "text": "Observacoes",
+          "xmin": 355,
+          "ymin": 1606,
+          "xmax": 565,
+          "ymax": 1640
+        },
+        {
+          "text": "Parecer",
+          "xmin": 355,
+          "ymin": 1677,
+          "xmax": 479,
+          "ymax": 1705
+        },
+        {
+          "text": "referente",
+          "xmin": 489,
+          "ymin": 1677,
+          "xmax": 636,
+          "ymax": 1706
+        },
+        {
+          "text": "a",
+          "xmin": 649,
+          "ymin": 1677,
+          "xmax": 660,
+          "ymax": 1702
+        },
+        {
+          "text": "saude",
+          "xmin": 678,
+          "ymin": 1677,
+          "xmax": 771,
+          "ymax": 1705
+        },
+        {
+          "text": "(",
+          "xmin": 794,
+          "ymin": 1679,
+          "xmax": 802,
+          "ymax": 1698
+        },
+        {
+          "text": "`",
+          "xmin": 840,
+          "ymin": 1677,
+          "xmax": 845,
+          "ymax": 1685
+        },
+        {
+          "text": "Inadequado",
+          "xmin": 863,
+          "ymin": 1677,
+          "xmax": 1055,
+          "ymax": 1710
+        },
+        {
+          "text": "(",
+          "xmin": 1090,
+          "ymin": 1677,
+          "xmax": 1101,
+          "ymax": 1704
+        },
+        {
+          "text": "I",
+          "xmin": 1111,
+          "ymin": 1678,
+          "xmax": 1125,
+          "ymax": 1695
+        },
+        {
+          "text": "|",
+          "xmin": 1135,
+          "ymin": 1680,
+          "xmax": 1139,
+          "ymax": 1686
+        },
+        {
+          "text": "Regular",
+          "xmin": 1151,
+          "ymin": 1678,
+          "xmax": 1289,
+          "ymax": 1715
+        },
+        {
+          "text": "(",
+          "xmin": 1321,
+          "ymin": 1677,
+          "xmax": 1332,
+          "ymax": 1703
+        },
+        {
+          "text": "|",
+          "xmin": 1337,
+          "ymin": 1671,
+          "xmax": 1364,
+          "ymax": 1701
+        },
+        {
+          "text": ")",
+          "xmin": 1366,
+          "ymin": 1678,
+          "xmax": 1373,
+          "ymax": 1702
+        },
+        {
+          "text": "Adequado",
+          "xmin": 1384,
+          "ymin": 1677,
+          "xmax": 1557,
+          "ymax": 1715
+        },
+        {
+          "text": "Indicadores",
+          "xmin": 355,
+          "ymin": 1793,
+          "xmax": 547,
+          "ymax": 1822
+        },
+        {
+          "text": "comportamentais",
+          "xmin": 559,
+          "ymin": 1793,
+          "xmax": 843,
+          "ymax": 1828
+        },
+        {
+          "text": "34.",
+          "xmin": 356,
+          "ymin": 1878,
+          "xmax": 400,
+          "ymax": 1907
+        },
+        {
+          "text": "Enriquecimento",
+          "xmin": 416,
+          "ymin": 1878,
+          "xmax": 680,
+          "ymax": 1910
+        },
+        {
+          "text": "ambiental",
+          "xmin": 694,
+          "ymin": 1879,
+          "xmax": 856,
+          "ymax": 1907
+        },
+        {
+          "text": "|",
+          "xmin": 926,
+          "ymin": 1880,
+          "xmax": 930,
+          "ymax": 1884
+        },
+        {
+          "text": "Sim",
+          "xmin": 950,
+          "ymin": 1878,
+          "xmax": 1011,
+          "ymax": 1907
+        },
+        {
+          "text": "(",
+          "xmin": 1047,
+          "ymin": 1880,
+          "xmax": 1054,
+          "ymax": 1903
+        },
+        {
+          "text": ")",
+          "xmin": 1093,
+          "ymin": 1878,
+          "xmax": 1102,
+          "ymax": 1905
+        },
+        {
+          "text": "Nao",
+          "xmin": 1116,
+          "ymin": 1878,
+          "xmax": 1184,
+          "ymax": 1907
+        },
+        {
+          "text": "Qual?",
+          "xmin": 1218,
+          "ymin": 1878,
+          "xmax": 1313,
+          "ymax": 1910
+        },
+        {
+          "text": "35.",
+          "xmin": 356,
+          "ymin": 1948,
+          "xmax": 404,
+          "ymax": 1976
+        },
+        {
+          "text": "Grau",
+          "xmin": 417,
+          "ymin": 1948,
+          "xmax": 499,
+          "ymax": 1977
+        },
+        {
+          "text": "de",
+          "xmin": 511,
+          "ymin": 1948,
+          "xmax": 548,
+          "ymax": 1976
+        },
+        {
+          "text": "efetividade",
+          "xmin": 561,
+          "ymin": 1948,
+          "xmax": 743,
+          "ymax": 1976
+        },
+        {
+          "text": "do",
+          "xmin": 756,
+          "ymin": 1949,
+          "xmax": 795,
+          "ymax": 1976
+        },
+        {
+          "text": "enriquecimento:",
+          "xmin": 808,
+          "ymin": 1948,
+          "xmax": 1074,
+          "ymax": 1981
+        },
+        {
+          "text": "(",
+          "xmin": 1089,
+          "ymin": 1951,
+          "xmax": 1095,
+          "ymax": 1972
+        },
+        {
+          "text": "Adequado",
+          "xmin": 1160,
+          "ymin": 1948,
+          "xmax": 1327,
+          "ymax": 1983
+        },
+        {
+          "text": "(",
+          "xmin": 1362,
+          "ymin": 1948,
+          "xmax": 1373,
+          "ymax": 1976
+        },
+        {
+          "text": "`",
+          "xmin": 1408,
+          "ymin": 1948,
+          "xmax": 1413,
+          "ymax": 1956
+        },
+        {
+          "text": "Regular",
+          "xmin": 1432,
+          "ymin": 1948,
+          "xmax": 1560,
+          "ymax": 1986
+        },
+        {
+          "text": "(",
+          "xmin": 1594,
+          "ymin": 1949,
+          "xmax": 1603,
+          "ymax": 1976
+        },
+        {
+          "text": ".",
+          "xmin": 1640,
+          "ymin": 1948,
+          "xmax": 1646,
+          "ymax": 1974
+        },
+        {
+          "text": "Inadequado",
+          "xmin": 1663,
+          "ymin": 1948,
+          "xmax": 1856,
+          "ymax": 1983
+        },
+        {
+          "text": "36.",
+          "xmin": 356,
+          "ymin": 2019,
+          "xmax": 404,
+          "ymax": 2047
+        },
+        {
+          "text": "Espaco",
+          "xmin": 416,
+          "ymin": 2019,
+          "xmax": 535,
+          "ymax": 2057
+        },
+        {
+          "text": "disponivel",
+          "xmin": 548,
+          "ymin": 2019,
+          "xmax": 718,
+          "ymax": 2053
+        },
+        {
+          "text": "para",
+          "xmin": 730,
+          "ymin": 2028,
+          "xmax": 802,
+          "ymax": 2055
+        },
+        {
+          "text": "movimentacao",
+          "xmin": 814,
+          "ymin": 2020,
+          "xmax": 1055,
+          "ymax": 2055
+        },
+        {
+          "text": "e",
+          "xmin": 1069,
+          "ymin": 2028,
+          "xmax": 1082,
+          "ymax": 2044
+        },
+        {
+          "text": "expressao",
+          "xmin": 1098,
+          "ymin": 2021,
+          "xmax": 1258,
+          "ymax": 2053
+        },
+        {
+          "text": "de",
+          "xmin": 1272,
+          "ymin": 2020,
+          "xmax": 1310,
+          "ymax": 2047
+        },
+        {
+          "text": "comportamentos",
+          "xmin": 1322,
+          "ymin": 2023,
+          "xmax": 1596,
+          "ymax": 2053
+        },
+        {
+          "text": "naturais",
+          "xmin": 1610,
+          "ymin": 2019,
+          "xmax": 1737,
+          "ymax": 2047
+        },
+        {
+          "text": "|",
+          "xmin": 401,
+          "ymin": 2091,
+          "xmax": 407,
+          "ymax": 2117
+        },
+        {
+          "text": "Liberdade",
+          "xmin": 424,
+          "ymin": 2090,
+          "xmax": 592,
+          "ymax": 2118
+        },
+        {
+          "text": "de",
+          "xmin": 603,
+          "ymin": 2090,
+          "xmax": 641,
+          "ymax": 2118
+        },
+        {
+          "text": "movimento",
+          "xmin": 653,
+          "ymin": 2090,
+          "xmax": 839,
+          "ymax": 2118
+        },
+        {
+          "text": "e",
+          "xmin": 853,
+          "ymin": 2099,
+          "xmax": 866,
+          "ymax": 2116
+        },
+        {
+          "text": "de",
+          "xmin": 881,
+          "ymin": 2091,
+          "xmax": 918,
+          "ymax": 2118
+        },
+        {
+          "text": "expressao",
+          "xmin": 931,
+          "ymin": 2092,
+          "xmax": 1093,
+          "ymax": 2125
+        },
+        {
+          "text": "de",
+          "xmin": 1106,
+          "ymin": 2091,
+          "xmax": 1143,
+          "ymax": 2118
+        },
+        {
+          "text": "grande",
+          "xmin": 1156,
+          "ymin": 2090,
+          "xmax": 1266,
+          "ymax": 2127
+        },
+        {
+          "text": "parte",
+          "xmin": 1278,
+          "ymin": 2094,
+          "xmax": 1359,
+          "ymax": 2127
+        },
+        {
+          "text": "dos",
+          "xmin": 1372,
+          "ymin": 2090,
+          "xmax": 1428,
+          "ymax": 2118
+        },
+        {
+          "text": "comportamentos",
+          "xmin": 1442,
+          "ymin": 2094,
+          "xmax": 1715,
+          "ymax": 2124
+        },
+        {
+          "text": "naturais",
+          "xmin": 1728,
+          "ymin": 2090,
+          "xmax": 1858,
+          "ymax": 2118
+        },
+        {
+          "text": "(",
+          "xmin": 356,
+          "ymin": 2166,
+          "xmax": 363,
+          "ymax": 2190
+        },
+        {
+          "text": ")",
+          "xmin": 401,
+          "ymin": 2161,
+          "xmax": 408,
+          "ymax": 2187
+        },
+        {
+          "text": "Alguma",
+          "xmin": 425,
+          "ymin": 2161,
+          "xmax": 556,
+          "ymax": 2197
+        },
+        {
+          "text": "restricao",
+          "xmin": 567,
+          "ymin": 2161,
+          "xmax": 708,
+          "ymax": 2198
+        },
+        {
+          "text": "de",
+          "xmin": 722,
+          "ymin": 2161,
+          "xmax": 759,
+          "ymax": 2190
+        },
+        {
+          "text": "espaco",
+          "xmin": 772,
+          "ymin": 2170,
+          "xmax": 910,
+          "ymax": 2195
+        },
+        {
+          "text": "atividades",
+          "xmin": 925,
+          "ymin": 2161,
+          "xmax": 1091,
+          "ymax": 2190
+        },
+        {
+          "text": "comportamentais",
+          "xmin": 1104,
+          "ymin": 2161,
+          "xmax": 1389,
+          "ymax": 2195
+        },
+        {
+          "text": "limitadas",
+          "xmin": 1401,
+          "ymin": 2161,
+          "xmax": 1551,
+          "ymax": 2190
+        },
+        {
+          "text": ")",
+          "xmin": 401,
+          "ymin": 2232,
+          "xmax": 408,
+          "ymax": 2258
+        },
+        {
+          "text": "Grande",
+          "xmin": 424,
+          "ymin": 2232,
+          "xmax": 545,
+          "ymax": 2261
+        },
+        {
+          "text": "restricao",
+          "xmin": 556,
+          "ymin": 2232,
+          "xmax": 699,
+          "ymax": 2264
+        },
+        {
+          "text": "de",
+          "xmin": 711,
+          "ymin": 2232,
+          "xmax": 748,
+          "ymax": 2261
+        },
+        {
+          "text": "espaco",
+          "xmin": 760,
+          "ymin": 2241,
+          "xmax": 871,
+          "ymax": 2266
+        },
+        {
+          "text": "e",
+          "xmin": 884,
+          "ymin": 2241,
+          "xmax": 899,
+          "ymax": 2258
+        },
+        {
+          "text": "impossibilidade",
+          "xmin": 913,
+          "ymin": 2232,
+          "xmax": 1173,
+          "ymax": 2268
+        },
+        {
+          "text": "de",
+          "xmin": 1187,
+          "ymin": 2232,
+          "xmax": 1222,
+          "ymax": 2261
+        },
+        {
+          "text": "expressao",
+          "xmin": 1236,
+          "ymin": 2234,
+          "xmax": 1398,
+          "ymax": 2266
+        },
+        {
+          "text": "de",
+          "xmin": 1411,
+          "ymin": 2232,
+          "xmax": 1447,
+          "ymax": 2261
+        },
+        {
+          "text": "comportamentos",
+          "xmin": 1461,
+          "ymin": 2237,
+          "xmax": 1735,
+          "ymax": 2266
+        },
+        {
+          "text": "naturais",
+          "xmin": 1748,
+          "ymin": 2232,
+          "xmax": 1877,
+          "ymax": 2261
+        },
+        {
+          "text": "37.",
+          "xmin": 356,
+          "ymin": 2303,
+          "xmax": 404,
+          "ymax": 2332
+        },
+        {
+          "text": "Contato",
+          "xmin": 400,
+          "ymin": 2303,
+          "xmax": 545,
+          "ymax": 2332
+        },
+        {
+          "text": "social",
+          "xmin": 560,
+          "ymin": 2303,
+          "xmax": 655,
+          "ymax": 2332
+        },
+        {
+          "text": "com",
+          "xmin": 667,
+          "ymin": 2312,
+          "xmax": 734,
+          "ymax": 2332
+        },
+        {
+          "text": "animais",
+          "xmin": 749,
+          "ymin": 2303,
+          "xmax": 876,
+          "ymax": 2332
+        },
+        {
+          "text": "da",
+          "xmin": 889,
+          "ymin": 2304,
+          "xmax": 926,
+          "ymax": 2332
+        },
+        {
+          "text": "mesma",
+          "xmin": 939,
+          "ymin": 2312,
+          "xmax": 1054,
+          "ymax": 2332
+        },
+        {
+          "text": "especie",
+          "xmin": 1066,
+          "ymin": 2303,
+          "xmax": 1187,
+          "ymax": 2338
+        },
+        {
+          "text": "(",
+          "xmin": 1200,
+          "ymin": 2305,
+          "xmax": 1207,
+          "ymax": 2328
+        },
+        {
+          "text": "|",
+          "xmin": 1246,
+          "ymin": 2303,
+          "xmax": 1252,
+          "ymax": 2329
+        },
+        {
+          "text": "Sim",
+          "xmin": 1270,
+          "ymin": 2303,
+          "xmax": 1335,
+          "ymax": 2332
+        },
+        {
+          "text": "(",
+          "xmin": 1368,
+          "ymin": 2307,
+          "xmax": 1374,
+          "ymax": 2328
+        },
+        {
+          "text": ")",
+          "xmin": 1413,
+          "ymin": 2303,
+          "xmax": 1420,
+          "ymax": 2329
+        },
+        {
+          "text": "Nao",
+          "xmin": 1435,
+          "ymin": 2303,
+          "xmax": 1502,
+          "ymax": 2332
+        },
+        {
+          "text": "38.",
+          "xmin": 356,
+          "ymin": 2373,
+          "xmax": 400,
+          "ymax": 2401
+        },
+        {
+          "text": "Contato",
+          "xmin": 417,
+          "ymin": 2373,
+          "xmax": 545,
+          "ymax": 2403
+        },
+        {
+          "text": "social",
+          "xmin": 560,
+          "ymin": 2373,
+          "xmax": 655,
+          "ymax": 2402
+        },
+        {
+          "text": "com",
+          "xmin": 667,
+          "ymin": 2382,
+          "xmax": 734,
+          "ymax": 2402
+        },
+        {
+          "text": "animais",
+          "xmin": 749,
+          "ymin": 2373,
+          "xmax": 876,
+          "ymax": 2402
+        },
+        {
+          "text": "de",
+          "xmin": 889,
+          "ymin": 2374,
+          "xmax": 926,
+          "ymax": 2401
+        },
+        {
+          "text": "outra",
+          "xmin": 938,
+          "ymin": 2378,
+          "xmax": 1022,
+          "ymax": 2402
+        },
+        {
+          "text": "especie",
+          "xmin": 1034,
+          "ymin": 2373,
+          "xmax": 1156,
+          "ymax": 2411
+        },
+        {
+          "text": "`",
+          "xmin": 1213,
+          "ymin": 2374,
+          "xmax": 1218,
+          "ymax": 2382
+        },
+        {
+          "text": "Sim",
+          "xmin": 1238,
+          "ymin": 2374,
+          "xmax": 1299,
+          "ymax": 2402
+        },
+        {
+          "text": "(",
+          "xmin": 1335,
+          "ymin": 2376,
+          "xmax": 1341,
+          "ymax": 2397
+        },
+        {
+          "text": ")",
+          "xmin": 1382,
+          "ymin": 2375,
+          "xmax": 1390,
+          "ymax": 2400
+        },
+        {
+          "text": "Nao",
+          "xmin": 1406,
+          "ymin": 2373,
+          "xmax": 1472,
+          "ymax": 2401
+        },
+        {
+          "text": "39.",
+          "xmin": 356,
+          "ymin": 2444,
+          "xmax": 404,
+          "ymax": 2472
+        },
+        {
+          "text": "Frequencia",
+          "xmin": 416,
+          "ymin": 2444,
+          "xmax": 600,
+          "ymax": 2477
+        },
+        {
+          "text": "de",
+          "xmin": 612,
+          "ymin": 2445,
+          "xmax": 649,
+          "ymax": 2472
+        },
+        {
+          "text": "interacoes",
+          "xmin": 662,
+          "ymin": 2445,
+          "xmax": 829,
+          "ymax": 2477
+        },
+        {
+          "text": "positivas",
+          "xmin": 840,
+          "ymin": 2445,
+          "xmax": 986,
+          "ymax": 2480
+        },
+        {
+          "text": "`",
+          "xmin": 1586,
+          "ymin": 2444,
+          "xmax": 1591,
+          "ymax": 2452
+        },
+        {
+          "text": "com",
+          "xmin": 999,
+          "ymin": 2453,
+          "xmax": 1066,
+          "ymax": 2472
+        },
+        {
+          "text": "seres",
+          "xmin": 1082,
+          "ymin": 2453,
+          "xmax": 1162,
+          "ymax": 2472
+        },
+        {
+          "text": "humanos",
+          "xmin": 1174,
+          "ymin": 2445,
+          "xmax": 1323,
+          "ymax": 2473
+        },
+        {
+          "text": "(",
+          "xmin": 1337,
+          "ymin": 2445,
+          "xmax": 1346,
+          "ymax": 2469
+        },
+        {
+          "text": "|",
+          "xmin": 1382,
+          "ymin": 2444,
+          "xmax": 1388,
+          "ymax": 2471
+        },
+        {
+          "text": "Diaria",
+          "xmin": 1406,
+          "ymin": 2444,
+          "xmax": 1507,
+          "ymax": 2472
+        },
+        {
+          "text": "(",
+          "xmin": 1542,
+          "ymin": 2445,
+          "xmax": 1550,
+          "ymax": 2468
+        },
+        {
+          "text": "Semanal",
+          "xmin": 1611,
+          "ymin": 2444,
+          "xmax": 1748,
+          "ymax": 2473
+        },
+        {
+          "text": "(",
+          "xmin": 1785,
+          "ymin": 2447,
+          "xmax": 1791,
+          "ymax": 2465
+        },
+        {
+          "text": "|",
+          "xmin": 1830,
+          "ymin": 2444,
+          "xmax": 1836,
+          "ymax": 2472
+        },
+        {
+          "text": "Nunca",
+          "xmin": 1852,
+          "ymin": 2444,
+          "xmax": 1959,
+          "ymax": 2472
+        },
+        {
+          "text": "40.",
+          "xmin": 355,
+          "ymin": 2515,
+          "xmax": 404,
+          "ymax": 2543
+        },
+        {
+          "text": "Distancia",
+          "xmin": 417,
+          "ymin": 2515,
+          "xmax": 570,
+          "ymax": 2543
+        },
+        {
+          "text": "de",
+          "xmin": 584,
+          "ymin": 2516,
+          "xmax": 622,
+          "ymax": 2543
+        },
+        {
+          "text": "fuga",
+          "xmin": 634,
+          "ymin": 2515,
+          "xmax": 712,
+          "ymax": 2553
+        },
+        {
+          "text": "metros",
+          "xmin": 908,
+          "ymin": 2519,
+          "xmax": 1018,
+          "ymax": 2542
+        },
+        {
+          "text": "41.",
+          "xmin": 354,
+          "ymin": 2587,
+          "xmax": 404,
+          "ymax": 2614
+        },
+        {
+          "text": "Evidencia",
+          "xmin": 416,
+          "ymin": 2586,
+          "xmax": 581,
+          "ymax": 2614
+        },
+        {
+          "text": "de",
+          "xmin": 594,
+          "ymin": 2587,
+          "xmax": 630,
+          "ymax": 2614
+        },
+        {
+          "text": "comportamentos",
+          "xmin": 644,
+          "ymin": 2590,
+          "xmax": 918,
+          "ymax": 2620
+        },
+        {
+          "text": "anormais",
+          "xmin": 932,
+          "ymin": 2586,
+          "xmax": 1080,
+          "ymax": 2614
+        },
+        {
+          "text": ")",
+          "xmin": 1140,
+          "ymin": 2586,
+          "xmax": 1148,
+          "ymax": 2612
+        },
+        {
+          "text": "Sim",
+          "xmin": 1165,
+          "ymin": 2586,
+          "xmax": 1225,
+          "ymax": 2614
+        },
+        {
+          "text": "(",
+          "xmin": 1262,
+          "ymin": 2590,
+          "xmax": 1270,
+          "ymax": 2610
+        },
+        {
+          "text": "|",
+          "xmin": 1308,
+          "ymin": 2587,
+          "xmax": 1314,
+          "ymax": 2613
+        },
+        {
+          "text": "Nao",
+          "xmin": 1331,
+          "ymin": 2586,
+          "xmax": 1398,
+          "ymax": 2614
+        },
+        {
+          "text": "Descricao",
+          "xmin": 1432,
+          "ymin": 2586,
+          "xmax": 1595,
+          "ymax": 2621
+        },
+        {
+          "text": "42.",
+          "xmin": 355,
+          "ymin": 2657,
+          "xmax": 400,
+          "ymax": 2686
+        },
+        {
+          "text": "Evidencia",
+          "xmin": 417,
+          "ymin": 2657,
+          "xmax": 581,
+          "ymax": 2686
+        },
+        {
+          "text": "de",
+          "xmin": 594,
+          "ymin": 2657,
+          "xmax": 630,
+          "ymax": 2686
+        },
+        {
+          "text": "estereotipia:",
+          "xmin": 644,
+          "ymin": 2657,
+          "xmax": 839,
+          "ymax": 2691
+        },
+        {
+          "text": "|",
+          "xmin": 906,
+          "ymin": 2661,
+          "xmax": 908,
+          "ymax": 2663
+        },
+        {
+          "text": "Sim",
+          "xmin": 928,
+          "ymin": 2657,
+          "xmax": 989,
+          "ymax": 2686
+        },
+        {
+          "text": "(",
+          "xmin": 1027,
+          "ymin": 2659,
+          "xmax": 1034,
+          "ymax": 2679
+        },
+        {
+          "text": ")",
+          "xmin": 1071,
+          "ymin": 2657,
+          "xmax": 1080,
+          "ymax": 2683
+        },
+        {
+          "text": "Nao",
+          "xmin": 1093,
+          "ymin": 2657,
+          "xmax": 1162,
+          "ymax": 2686
+        },
+        {
+          "text": "Ouais?",
+          "xmin": 1196,
+          "ymin": 2657,
+          "xmax": 1307,
+          "ymax": 2688
+        },
+        {
+          "text": "43.",
+          "xmin": 354,
+          "ymin": 2728,
+          "xmax": 404,
+          "ymax": 2757
+        },
+        {
+          "text": "Atitude",
+          "xmin": 418,
+          "ymin": 2728,
+          "xmax": 540,
+          "ymax": 2757
+        },
+        {
+          "text": "do",
+          "xmin": 552,
+          "ymin": 2729,
+          "xmax": 592,
+          "ymax": 2757
+        },
+        {
+          "text": "animal",
+          "xmin": 605,
+          "ymin": 2728,
+          "xmax": 716,
+          "ymax": 2757
+        },
+        {
+          "text": "(",
+          "xmin": 740,
+          "ymin": 2732,
+          "xmax": 747,
+          "ymax": 2750
+        },
+        {
+          "text": "|",
+          "xmin": 785,
+          "ymin": 2729,
+          "xmax": 791,
+          "ymax": 2753
+        },
+        {
+          "text": "Alerta",
+          "xmin": 810,
+          "ymin": 2728,
+          "xmax": 910,
+          "ymax": 2757
+        },
+        {
+          "text": "(",
+          "xmin": 945,
+          "ymin": 2729,
+          "xmax": 954,
+          "ymax": 2754
+        },
+        {
+          "text": ")",
+          "xmin": 990,
+          "ymin": 2728,
+          "xmax": 997,
+          "ymax": 2754
+        },
+        {
+          "text": "Apatico",
+          "xmin": 1014,
+          "ymin": 2728,
+          "xmax": 1143,
+          "ymax": 2762
+        },
+        {
+          "text": "1",
+          "xmin": 1222,
+          "ymin": 2729,
+          "xmax": 1229,
+          "ymax": 2750
+        },
+        {
+          "text": "Agitado",
+          "xmin": 1248,
+          "ymin": 2728,
+          "xmax": 1378,
+          "ymax": 2762
+        },
+        {
+          "text": "44",
+          "xmin": 354,
+          "ymin": 2799,
+          "xmax": 396,
+          "ymax": 2821
+        },
+        {
+          "text": "Atitude",
+          "xmin": 417,
+          "ymin": 2798,
+          "xmax": 540,
+          "ymax": 2827
+        },
+        {
+          "text": "a",
+          "xmin": 553,
+          "ymin": 2799,
+          "xmax": 564,
+          "ymax": 2825
+        },
+        {
+          "text": "presenca",
+          "xmin": 580,
+          "ymin": 2807,
+          "xmax": 724,
+          "ymax": 2834
+        },
+        {
+          "text": "humana:",
+          "xmin": 736,
+          "ymin": 2799,
+          "xmax": 876,
+          "ymax": 2827
+        },
+        {
+          "text": "(",
+          "xmin": 892,
+          "ymin": 2803,
+          "xmax": 897,
+          "ymax": 2819
+        },
+        {
+          "text": "1",
+          "xmin": 937,
+          "ymin": 2798,
+          "xmax": 945,
+          "ymax": 2823
+        },
+        {
+          "text": "Curioso",
+          "xmin": 961,
+          "ymin": 2798,
+          "xmax": 1090,
+          "ymax": 2828
+        },
+        {
+          "text": "(",
+          "xmin": 1124,
+          "ymin": 2802,
+          "xmax": 1130,
+          "ymax": 2819
+        },
+        {
+          "text": "|",
+          "xmin": 1169,
+          "ymin": 2800,
+          "xmax": 1174,
+          "ymax": 2807
+        },
+        {
+          "text": "Hesitante",
+          "xmin": 1193,
+          "ymin": 2798,
+          "xmax": 1346,
+          "ymax": 2827
+        },
+        {
+          "text": "(",
+          "xmin": 1382,
+          "ymin": 2798,
+          "xmax": 1392,
+          "ymax": 2817
+        },
+        {
+          "text": "|",
+          "xmin": 1427,
+          "ymin": 2800,
+          "xmax": 1432,
+          "ymax": 2807
+        },
+        {
+          "text": "Amedrontado",
+          "xmin": 1452,
+          "ymin": 2798,
+          "xmax": 1677,
+          "ymax": 2827
+        },
+        {
+          "text": "(",
+          "xmin": 1711,
+          "ymin": 2799,
+          "xmax": 1722,
+          "ymax": 2820
+        },
+        {
+          "text": "|",
+          "xmin": 1759,
+          "ymin": 2800,
+          "xmax": 1763,
+          "ymax": 2804
+        },
+        {
+          "text": "Agressivo",
+          "xmin": 1782,
+          "ymin": 2799,
+          "xmax": 1949,
+          "ymax": 2836
+        },
+        {
+          "text": "45.",
+          "xmin": 354,
+          "ymin": 2869,
+          "xmax": 404,
+          "ymax": 2897
+        },
+        {
+          "text": "Atitude",
+          "xmin": 400,
+          "ymin": 2869,
+          "xmax": 540,
+          "ymax": 2898
+        },
+        {
+          "text": "a",
+          "xmin": 553,
+          "ymin": 2869,
+          "xmax": 564,
+          "ymax": 2897
+        },
+        {
+          "text": "presenca",
+          "xmin": 580,
+          "ymin": 2878,
+          "xmax": 723,
+          "ymax": 2905
+        },
+        {
+          "text": "do",
+          "xmin": 737,
+          "ymin": 2870,
+          "xmax": 775,
+          "ymax": 2897
+        },
+        {
+          "text": "responsavel",
+          "xmin": 788,
+          "ymin": 2870,
+          "xmax": 985,
+          "ymax": 2907
+        },
+        {
+          "text": "|",
+          "xmin": 1055,
+          "ymin": 2872,
+          "xmax": 1059,
+          "ymax": 2878
+        },
+        {
+          "text": "Curioso",
+          "xmin": 1077,
+          "ymin": 2869,
+          "xmax": 1206,
+          "ymax": 2898
+        },
+        {
+          "text": "|",
+          "xmin": 1287,
+          "ymin": 2872,
+          "xmax": 1292,
+          "ymax": 2893
+        },
+        {
+          "text": "Hesitante",
+          "xmin": 1310,
+          "ymin": 2869,
+          "xmax": 1463,
+          "ymax": 2898
+        },
+        {
+          "text": "(",
+          "xmin": 1498,
+          "ymin": 2870,
+          "xmax": 1507,
+          "ymax": 2897
+        },
+        {
+          "text": ")",
+          "xmin": 1544,
+          "ymin": 2869,
+          "xmax": 1551,
+          "ymax": 2897
+        },
+        {
+          "text": "Amedrontado",
+          "xmin": 1568,
+          "ymin": 2869,
+          "xmax": 1792,
+          "ymax": 2898
+        },
+        {
+          "text": "(",
+          "xmin": 1828,
+          "ymin": 2871,
+          "xmax": 1835,
+          "ymax": 2893
+        },
+        {
+          "text": ")",
+          "xmin": 1873,
+          "ymin": 2869,
+          "xmax": 1880,
+          "ymax": 2897
+        },
+        {
+          "text": "Agressivo",
+          "xmin": 1896,
+          "ymin": 2870,
+          "xmax": 2061,
+          "ymax": 2907
+        },
+        {
+          "text": "46.",
+          "xmin": 354,
+          "ymin": 2940,
+          "xmax": 400,
+          "ymax": 2968
+        },
+        {
+          "text": "Posicao",
+          "xmin": 417,
+          "ymin": 2940,
+          "xmax": 545,
+          "ymax": 2973
+        },
+        {
+          "text": "das",
+          "xmin": 557,
+          "ymin": 2940,
+          "xmax": 611,
+          "ymax": 2968
+        },
+        {
+          "text": "orelhas",
+          "xmin": 623,
+          "ymin": 2940,
+          "xmax": 741,
+          "ymax": 2969
+        },
+        {
+          "text": "(",
+          "xmin": 766,
+          "ymin": 2941,
+          "xmax": 774,
+          "ymax": 2964
+        },
+        {
+          "text": "1",
+          "xmin": 811,
+          "ymin": 2940,
+          "xmax": 819,
+          "ymax": 2965
+        },
+        {
+          "text": "Para",
+          "xmin": 835,
+          "ymin": 2940,
+          "xmax": 907,
+          "ymax": 2968
+        },
+        {
+          "text": "frente",
+          "xmin": 920,
+          "ymin": 2940,
+          "xmax": 1014,
+          "ymax": 2968
+        },
+        {
+          "text": "(",
+          "xmin": 1048,
+          "ymin": 2941,
+          "xmax": 1058,
+          "ymax": 2962
+        },
+        {
+          "text": ")",
+          "xmin": 1093,
+          "ymin": 2941,
+          "xmax": 1104,
+          "ymax": 2967
+        },
+        {
+          "text": "Para",
+          "xmin": 1116,
+          "ymin": 2940,
+          "xmax": 1189,
+          "ymax": 2968
+        },
+        {
+          "text": "tras",
+          "xmin": 1202,
+          "ymin": 2941,
+          "xmax": 1258,
+          "ymax": 2968
+        },
+        {
+          "text": "I",
+          "xmin": 1338,
+          "ymin": 2940,
+          "xmax": 1346,
+          "ymax": 2968
+        },
+        {
+          "text": "Caidas",
+          "xmin": 1361,
+          "ymin": 2940,
+          "xmax": 1472,
+          "ymax": 2968
+        },
+        {
+          "text": "(",
+          "xmin": 1506,
+          "ymin": 2945,
+          "xmax": 1511,
+          "ymax": 2967
+        },
+        {
+          "text": "I",
+          "xmin": 1552,
+          "ymin": 2940,
+          "xmax": 1559,
+          "ymax": 2968
+        },
+        {
+          "text": "Movimentando",
+          "xmin": 1574,
+          "ymin": 2940,
+          "xmax": 1825,
+          "ymax": 2968
+        },
+        {
+          "text": "47.",
+          "xmin": 355,
+          "ymin": 3011,
+          "xmax": 403,
+          "ymax": 3036
+        },
+        {
+          "text": "|",
+          "xmin": 401,
+          "ymin": 3016,
+          "xmax": 417,
+          "ymax": 3032
+        },
+        {
+          "text": "Urina",
+          "xmin": 418,
+          "ymin": 3011,
+          "xmax": 510,
+          "ymax": 3039
+        },
+        {
+          "text": "e",
+          "xmin": 522,
+          "ymin": 3020,
+          "xmax": 534,
+          "ymax": 3036
+        },
+        {
+          "text": "defeca",
+          "xmin": 551,
+          "ymin": 3011,
+          "xmax": 658,
+          "ymax": 3039
+        },
+        {
+          "text": "com",
+          "xmin": 670,
+          "ymin": 3020,
+          "xmax": 737,
+          "ymax": 3039
+        },
+        {
+          "text": "frequencia",
+          "xmin": 752,
+          "ymin": 3011,
+          "xmax": 926,
+          "ymax": 3045
+        },
+        {
+          "text": "na",
+          "xmin": 939,
+          "ymin": 3020,
+          "xmax": 976,
+          "ymax": 3040
+        },
+        {
+          "text": "presenca",
+          "xmin": 987,
+          "ymin": 3020,
+          "xmax": 1132,
+          "ymax": 3047
+        },
+        {
+          "text": "do",
+          "xmin": 1144,
+          "ymin": 3012,
+          "xmax": 1184,
+          "ymax": 3039
+        },
+        {
+          "text": "observador:",
+          "xmin": 1198,
+          "ymin": 3011,
+          "xmax": 1389,
+          "ymax": 3039
+        },
+        {
+          "text": "(",
+          "xmin": 1405,
+          "ymin": 3016,
+          "xmax": 1410,
+          "ymax": 3035
+        },
+        {
+          "text": "|",
+          "xmin": 1451,
+          "ymin": 3011,
+          "xmax": 1457,
+          "ymax": 3034
+        },
+        {
+          "text": "Sim",
+          "xmin": 1475,
+          "ymin": 3011,
+          "xmax": 1537,
+          "ymax": 3039
+        },
+        {
+          "text": "(",
+          "xmin": 1572,
+          "ymin": 3016,
+          "xmax": 1577,
+          "ymax": 3035
+        },
+        {
+          "text": ")",
+          "xmin": 1618,
+          "ymin": 3012,
+          "xmax": 1625,
+          "ymax": 3039
+        },
+        {
+          "text": "Nao",
+          "xmin": 1640,
+          "ymin": 3011,
+          "xmax": 1707,
+          "ymax": 3039
+        },
+        {
+          "text": "48.",
+          "xmin": 354,
+          "ymin": 3082,
+          "xmax": 404,
+          "ymax": 3110
+        },
+        {
+          "text": "Contato",
+          "xmin": 417,
+          "ymin": 3082,
+          "xmax": 545,
+          "ymax": 3110
+        },
+        {
+          "text": "visual",
+          "xmin": 560,
+          "ymin": 3082,
+          "xmax": 657,
+          "ymax": 3110
+        },
+        {
+          "text": "direto",
+          "xmin": 669,
+          "ymin": 3082,
+          "xmax": 762,
+          "ymax": 3110
+        },
+        {
+          "text": "com",
+          "xmin": 778,
+          "ymin": 3091,
+          "xmax": 844,
+          "ymax": 3110
+        },
+        {
+          "text": "o",
+          "xmin": 858,
+          "ymin": 3091,
+          "xmax": 876,
+          "ymax": 3109
+        },
+        {
+          "text": "observador",
+          "xmin": 890,
+          "ymin": 3082,
+          "xmax": 1074,
+          "ymax": 3110
+        },
+        {
+          "text": ")",
+          "xmin": 1143,
+          "ymin": 3082,
+          "xmax": 1151,
+          "ymax": 3110
+        },
+        {
+          "text": "Sim",
+          "xmin": 1167,
+          "ymin": 3082,
+          "xmax": 1230,
+          "ymax": 3110
+        },
+        {
+          "text": "(",
+          "xmin": 1265,
+          "ymin": 3087,
+          "xmax": 1270,
+          "ymax": 3106
+        },
+        {
+          "text": ")",
+          "xmin": 1310,
+          "ymin": 3083,
+          "xmax": 1317,
+          "ymax": 3109
+        },
+        {
+          "text": "Nao",
+          "xmin": 1332,
+          "ymin": 3082,
+          "xmax": 1398,
+          "ymax": 3110
+        },
+        {
+          "text": "49.",
+          "xmin": 355,
+          "ymin": 3153,
+          "xmax": 404,
+          "ymax": 3182
+        },
+        {
+          "text": "|",
+          "xmin": 418,
+          "ymin": 3155,
+          "xmax": 421,
+          "ymax": 3159
+        },
+        {
+          "text": "Vocalizacao",
+          "xmin": 418,
+          "ymin": 3153,
+          "xmax": 621,
+          "ymax": 3184
+        },
+        {
+          "text": "(",
+          "xmin": 646,
+          "ymin": 3153,
+          "xmax": 657,
+          "ymax": 3179
+        },
+        {
+          "text": "/",
+          "xmin": 661,
+          "ymin": 3151,
+          "xmax": 688,
+          "ymax": 3178
+        },
+        {
+          "text": "Sim",
+          "xmin": 716,
+          "ymin": 3153,
+          "xmax": 778,
+          "ymax": 3182
+        },
+        {
+          "text": "(",
+          "xmin": 813,
+          "ymin": 3153,
+          "xmax": 824,
+          "ymax": 3179
+        },
+        {
+          "text": "1",
+          "xmin": 858,
+          "ymin": 3154,
+          "xmax": 865,
+          "ymax": 3175
+        },
+        {
+          "text": "Nao",
+          "xmin": 881,
+          "ymin": 3153,
+          "xmax": 948,
+          "ymax": 3182
+        },
+        {
+          "text": "Descreva",
+          "xmin": 983,
+          "ymin": 3153,
+          "xmax": 1135,
+          "ymax": 3182
+        }
+      ],
+      "raw_text": "Indicadores de sauide 18. Arqueamento de dorso ( ) Sim ( ) Nao 19. Dor a manipulacao/palpacao: ( ) Sim ( Nao 20. Alteracao de postura ( 1 Sim ( ) Nao 21. Locomocao ( 1 Normal ( | Claudicacao leve ( 1 Claudicacao severa ( | Recusa levantar 22. Secrecoes corporais Sim ) Nao Local Aspecto 23. Mucosas ( ) Normais ( 1 Hipocoradas ( | Hiperemicas ` Ictericas ( | Cianoticas 24. Hidratacao: ( | Normal ( ) Desidratacao leve ( ) Desidratacao severa 25. Fezes: ( ` Normais ( | Diarreia ( | Observacdes 26. Pelagem/plumagem ( Normais ( | Opaca ( ) Arrepiada ( | Com falhas 27. Ectoparasitas ( ) Sim ( ) Nao Quais 28. Prurido: ( ) Sim | Nao 29. Lesoes ou ferimentos ( ) Sim ( ` Nao Descreva 30. Cicatrizes ( 1 Sim marcar e descrever na resenha ( ) Nao 31. | Vacinas ( Sim ( I Nao ( ) Atrasadas 32. Desverminado: ( | Sim | em Nao 33. Assistencia veterinaria ( 1 Sim iltima visita | 1 ( Nao Observacoes Parecer referente a saude ( ` Inadequado ( I | Regular ( | ) Adequado Indicadores comportamentais 34. Enriquecimento ambiental | Sim ( ) Nao Qual? 35. Grau de efetividade do enriquecimento: ( Adequado ( ` Regular ( . Inadequado 36. Espaco disponivel para movimentacao e expressao de comportamentos naturais | Liberdade de movimento e de expressao de grande parte dos comportamentos naturais ( ) Alguma restricao de espaco atividades comportamentais limitadas ) Grande restricao de espaco e impossibilidade de expressao de comportamentos naturais 37. Contato social com animais da mesma especie ( | Sim ( ) Nao 38. Contato social com animais de outra especie ` Sim ( ) Nao 39. Frequencia de interacoes positivas ` com seres humanos ( | Diaria ( Semanal ( | Nunca 40. Distancia de fuga metros 41. Evidencia de comportamentos anormais ) Sim ( | Nao Descricao 42. Evidencia de estereotipia: | Sim ( ) Nao Ouais? 43. Atitude do animal ( | Alerta ( ) Apatico 1 Agitado 44 Atitude a presenca humana: ( 1 Curioso ( | Hesitante ( | Amedrontado ( | Agressivo 45. Atitude a presenca do responsavel | Curioso | Hesitante ( ) Amedrontado ( ) Agressivo 46. Posicao das orelhas ( 1 Para frente ( ) Para tras I Caidas ( I Movimentando 47. | Urina e defeca com frequencia na presenca do observador: ( | Sim ( ) Nao 48. Contato visual direto com o observador ) Sim ( ) Nao 49. | Vocalizacao ( / Sim ( 1 Nao Descreva "
+    },
+    {
+      "page": 2,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/a623f2ef-d486-4bf0-8f9b-71131f2fc126-3.jpeg?ik-s=1c6df1fd2b652bc2bac323d3c89291fd9bca1a79&ik-t=1743218630",
+      "size": {
+        "width": 2481,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "50.",
+          "xmin": 356,
+          "ymin": 329,
+          "xmax": 404,
+          "ymax": 359
+        },
+        {
+          "text": ".A",
+          "xmin": 400,
+          "ymin": 330,
+          "xmax": 446,
+          "ymax": 358
+        },
+        {
+          "text": "rotina",
+          "xmin": 456,
+          "ymin": 329,
+          "xmax": 552,
+          "ymax": 358
+        },
+        {
+          "text": "do",
+          "xmin": 566,
+          "ymin": 329,
+          "xmax": 603,
+          "ymax": 358
+        },
+        {
+          "text": "animal",
+          "xmin": 619,
+          "ymin": 329,
+          "xmax": 726,
+          "ymax": 358
+        },
+        {
+          "text": "permite",
+          "xmin": 739,
+          "ymin": 330,
+          "xmax": 867,
+          "ymax": 365
+        },
+        {
+          "text": "que",
+          "xmin": 878,
+          "ymin": 338,
+          "xmax": 938,
+          "ymax": 365
+        },
+        {
+          "text": "tenha",
+          "xmin": 950,
+          "ymin": 329,
+          "xmax": 1038,
+          "ymax": 358
+        },
+        {
+          "text": "contato",
+          "xmin": 1050,
+          "ymin": 333,
+          "xmax": 1170,
+          "ymax": 358
+        },
+        {
+          "text": "com",
+          "xmin": 1183,
+          "ymin": 338,
+          "xmax": 1250,
+          "ymax": 358
+        },
+        {
+          "text": "pessoas",
+          "xmin": 1264,
+          "ymin": 338,
+          "xmax": 1389,
+          "ymax": 364
+        },
+        {
+          "text": "alem",
+          "xmin": 1414,
+          "ymin": 329,
+          "xmax": 1492,
+          "ymax": 358
+        },
+        {
+          "text": "do",
+          "xmin": 1505,
+          "ymin": 329,
+          "xmax": 1543,
+          "ymax": 356
+        },
+        {
+          "text": "responsavel?",
+          "xmin": 1556,
+          "ymin": 329,
+          "xmax": 1768,
+          "ymax": 366
+        },
+        {
+          "text": "(",
+          "xmin": 1783,
+          "ymin": 334,
+          "xmax": 1788,
+          "ymax": 352
+        },
+        {
+          "text": "Sim",
+          "xmin": 1852,
+          "ymin": 329,
+          "xmax": 1913,
+          "ymax": 359
+        },
+        {
+          "text": ")",
+          "xmin": 1995,
+          "ymin": 329,
+          "xmax": 2018,
+          "ymax": 358
+        },
+        {
+          "text": "Nao",
+          "xmin": 2018,
+          "ymin": 329,
+          "xmax": 2085,
+          "ymax": 358
+        },
+        {
+          "text": "51.",
+          "xmin": 356,
+          "ymin": 400,
+          "xmax": 404,
+          "ymax": 426
+        },
+        {
+          "text": ".",
+          "xmin": 400,
+          "ymin": 400,
+          "xmax": 444,
+          "ymax": 427
+        },
+        {
+          "text": "animal",
+          "xmin": 459,
+          "ymin": 401,
+          "xmax": 567,
+          "ymax": 429
+        },
+        {
+          "text": "tem",
+          "xmin": 582,
+          "ymin": 405,
+          "xmax": 638,
+          "ymax": 429
+        },
+        {
+          "text": "chance",
+          "xmin": 653,
+          "ymin": 401,
+          "xmax": 767,
+          "ymax": 429
+        },
+        {
+          "text": "de",
+          "xmin": 780,
+          "ymin": 400,
+          "xmax": 817,
+          "ymax": 429
+        },
+        {
+          "text": "pastejar?",
+          "xmin": 830,
+          "ymin": 400,
+          "xmax": 976,
+          "ymax": 436
+        },
+        {
+          "text": "(",
+          "xmin": 989,
+          "ymin": 402,
+          "xmax": 997,
+          "ymax": 427
+        },
+        {
+          "text": "|",
+          "xmin": 1034,
+          "ymin": 402,
+          "xmax": 1040,
+          "ymax": 426
+        },
+        {
+          "text": "Sim",
+          "xmin": 1060,
+          "ymin": 400,
+          "xmax": 1121,
+          "ymax": 430
+        },
+        {
+          "text": "1",
+          "xmin": 1156,
+          "ymin": 405,
+          "xmax": 1161,
+          "ymax": 421
+        },
+        {
+          "text": ")",
+          "xmin": 1201,
+          "ymin": 401,
+          "xmax": 1208,
+          "ymax": 427
+        },
+        {
+          "text": "Nao",
+          "xmin": 1224,
+          "ymin": 400,
+          "xmax": 1291,
+          "ymax": 429
+        },
+        {
+          "text": "52.",
+          "xmin": 356,
+          "ymin": 471,
+          "xmax": 404,
+          "ymax": 499
+        },
+        {
+          "text": "Evidencia",
+          "xmin": 416,
+          "ymin": 471,
+          "xmax": 582,
+          "ymax": 501
+        },
+        {
+          "text": "de",
+          "xmin": 594,
+          "ymin": 472,
+          "xmax": 630,
+          "ymax": 499
+        },
+        {
+          "text": "comportamentos",
+          "xmin": 644,
+          "ymin": 475,
+          "xmax": 918,
+          "ymax": 507
+        },
+        {
+          "text": "agonisticos",
+          "xmin": 932,
+          "ymin": 471,
+          "xmax": 1116,
+          "ymax": 508
+        },
+        {
+          "text": "(brigas",
+          "xmin": 1130,
+          "ymin": 471,
+          "xmax": 1241,
+          "ymax": 507
+        },
+        {
+          "text": "|",
+          "xmin": 1246,
+          "ymin": 474,
+          "xmax": 1251,
+          "ymax": 488
+        },
+        {
+          "text": "(",
+          "xmin": 1281,
+          "ymin": 475,
+          "xmax": 1287,
+          "ymax": 495
+        },
+        {
+          "text": ")",
+          "xmin": 1326,
+          "ymin": 471,
+          "xmax": 1335,
+          "ymax": 499
+        },
+        {
+          "text": "Sim",
+          "xmin": 1351,
+          "ymin": 471,
+          "xmax": 1414,
+          "ymax": 501
+        },
+        {
+          "text": "(",
+          "xmin": 1449,
+          "ymin": 472,
+          "xmax": 1458,
+          "ymax": 496
+        },
+        {
+          "text": ")",
+          "xmin": 1494,
+          "ymin": 472,
+          "xmax": 1502,
+          "ymax": 499
+        },
+        {
+          "text": "Nao",
+          "xmin": 1497,
+          "ymin": 471,
+          "xmax": 1584,
+          "ymax": 501
+        },
+        {
+          "text": "53.",
+          "xmin": 356,
+          "ymin": 541,
+          "xmax": 400,
+          "ymax": 570
+        },
+        {
+          "text": "Tentativa",
+          "xmin": 417,
+          "ymin": 541,
+          "xmax": 570,
+          "ymax": 570
+        },
+        {
+          "text": "de",
+          "xmin": 584,
+          "ymin": 542,
+          "xmax": 622,
+          "ymax": 570
+        },
+        {
+          "text": "fuga",
+          "xmin": 635,
+          "ymin": 541,
+          "xmax": 705,
+          "ymax": 577
+        },
+        {
+          "text": "do",
+          "xmin": 718,
+          "ymin": 542,
+          "xmax": 756,
+          "ymax": 570
+        },
+        {
+          "text": "local",
+          "xmin": 771,
+          "ymin": 542,
+          "xmax": 849,
+          "ymax": 570
+        },
+        {
+          "text": "|",
+          "xmin": 1419,
+          "ymin": 542,
+          "xmax": 1424,
+          "ymax": 549
+        },
+        {
+          "text": "em",
+          "xmin": 862,
+          "ymin": 550,
+          "xmax": 910,
+          "ymax": 570
+        },
+        {
+          "text": "que",
+          "xmin": 923,
+          "ymin": 550,
+          "xmax": 981,
+          "ymax": 575
+        },
+        {
+          "text": "se",
+          "xmin": 994,
+          "ymin": 550,
+          "xmax": 1023,
+          "ymax": 569
+        },
+        {
+          "text": "encontra",
+          "xmin": 1038,
+          "ymin": 546,
+          "xmax": 1178,
+          "ymax": 570
+        },
+        {
+          "text": "(",
+          "xmin": 1206,
+          "ymin": 543,
+          "xmax": 1213,
+          "ymax": 563
+        },
+        {
+          "text": ")",
+          "xmin": 1251,
+          "ymin": 541,
+          "xmax": 1258,
+          "ymax": 567
+        },
+        {
+          "text": "Sim",
+          "xmin": 1275,
+          "ymin": 541,
+          "xmax": 1337,
+          "ymax": 570
+        },
+        {
+          "text": "(",
+          "xmin": 1374,
+          "ymin": 545,
+          "xmax": 1380,
+          "ymax": 563
+        },
+        {
+          "text": "Nao",
+          "xmin": 1441,
+          "ymin": 541,
+          "xmax": 1507,
+          "ymax": 570
+        },
+        {
+          "text": "Observacdes",
+          "xmin": 355,
+          "ymin": 612,
+          "xmax": 564,
+          "ymax": 644
+        },
+        {
+          "text": "Parecer",
+          "xmin": 356,
+          "ymin": 683,
+          "xmax": 479,
+          "ymax": 712
+        },
+        {
+          "text": "referente",
+          "xmin": 489,
+          "ymin": 683,
+          "xmax": 636,
+          "ymax": 712
+        },
+        {
+          "text": "ao",
+          "xmin": 649,
+          "ymin": 692,
+          "xmax": 685,
+          "ymax": 712
+        },
+        {
+          "text": "comportamento",
+          "xmin": 698,
+          "ymin": 687,
+          "xmax": 956,
+          "ymax": 718
+        },
+        {
+          "text": "(",
+          "xmin": 982,
+          "ymin": 687,
+          "xmax": 988,
+          "ymax": 708
+        },
+        {
+          "text": "|",
+          "xmin": 1027,
+          "ymin": 683,
+          "xmax": 1033,
+          "ymax": 710
+        },
+        {
+          "text": "Inadequado",
+          "xmin": 1051,
+          "ymin": 683,
+          "xmax": 1241,
+          "ymax": 718
+        },
+        {
+          "text": "(",
+          "xmin": 1277,
+          "ymin": 685,
+          "xmax": 1285,
+          "ymax": 710
+        },
+        {
+          "text": ")",
+          "xmin": 1322,
+          "ymin": 684,
+          "xmax": 1329,
+          "ymax": 710
+        },
+        {
+          "text": "Regular",
+          "xmin": 1340,
+          "ymin": 683,
+          "xmax": 1475,
+          "ymax": 721
+        },
+        {
+          "text": "(",
+          "xmin": 1508,
+          "ymin": 685,
+          "xmax": 1515,
+          "ymax": 707
+        },
+        {
+          "text": "I",
+          "xmin": 1526,
+          "ymin": 682,
+          "xmax": 1551,
+          "ymax": 707
+        },
+        {
+          "text": "1",
+          "xmin": 1554,
+          "ymin": 684,
+          "xmax": 1562,
+          "ymax": 710
+        },
+        {
+          "text": "Adequado",
+          "xmin": 1577,
+          "ymin": 683,
+          "xmax": 1746,
+          "ymax": 718
+        },
+        {
+          "text": "Diagnostico",
+          "xmin": 355,
+          "ymin": 799,
+          "xmax": 553,
+          "ymax": 836
+        },
+        {
+          "text": "geral",
+          "xmin": 567,
+          "ymin": 799,
+          "xmax": 647,
+          "ymax": 837
+        },
+        {
+          "text": "Inadequacao",
+          "xmin": 355,
+          "ymin": 872,
+          "xmax": 562,
+          "ymax": 904
+        },
+        {
+          "text": "de",
+          "xmin": 575,
+          "ymin": 872,
+          "xmax": 611,
+          "ymax": 901
+        },
+        {
+          "text": "quais",
+          "xmin": 625,
+          "ymin": 873,
+          "xmax": 711,
+          "ymax": 908
+        },
+        {
+          "text": "conjuntos",
+          "xmin": 723,
+          "ymin": 872,
+          "xmax": 882,
+          "ymax": 902
+        },
+        {
+          "text": "de",
+          "xmin": 896,
+          "ymin": 873,
+          "xmax": 932,
+          "ymax": 901
+        },
+        {
+          "text": "indicadores",
+          "xmin": 946,
+          "ymin": 872,
+          "xmax": 1136,
+          "ymax": 901
+        },
+        {
+          "text": "(",
+          "xmin": 356,
+          "ymin": 944,
+          "xmax": 364,
+          "ymax": 970
+        },
+        {
+          "text": ")",
+          "xmin": 401,
+          "ymin": 943,
+          "xmax": 408,
+          "ymax": 970
+        },
+        {
+          "text": "Nutricionais",
+          "xmin": 424,
+          "ymin": 943,
+          "xmax": 626,
+          "ymax": 973
+        },
+        {
+          "text": "(",
+          "xmin": 662,
+          "ymin": 948,
+          "xmax": 667,
+          "ymax": 966
+        },
+        {
+          "text": ")",
+          "xmin": 707,
+          "ymin": 943,
+          "xmax": 715,
+          "ymax": 970
+        },
+        {
+          "text": "Ambientais",
+          "xmin": 730,
+          "ymin": 943,
+          "xmax": 920,
+          "ymax": 972
+        },
+        {
+          "text": "(",
+          "xmin": 954,
+          "ymin": 947,
+          "xmax": 960,
+          "ymax": 966
+        },
+        {
+          "text": ")",
+          "xmin": 999,
+          "ymin": 943,
+          "xmax": 1006,
+          "ymax": 970
+        },
+        {
+          "text": "De",
+          "xmin": 1023,
+          "ymin": 943,
+          "xmax": 1069,
+          "ymax": 970
+        },
+        {
+          "text": "saude",
+          "xmin": 1083,
+          "ymin": 944,
+          "xmax": 1173,
+          "ymax": 970
+        },
+        {
+          "text": "(",
+          "xmin": 1209,
+          "ymin": 947,
+          "xmax": 1215,
+          "ymax": 966
+        },
+        {
+          "text": "|",
+          "xmin": 1253,
+          "ymin": 944,
+          "xmax": 1261,
+          "ymax": 967
+        },
+        {
+          "text": "Comportamentais",
+          "xmin": 1277,
+          "ymin": 943,
+          "xmax": 1570,
+          "ymax": 980
+        },
+        {
+          "text": "Grau",
+          "xmin": 355,
+          "ymin": 1016,
+          "xmax": 433,
+          "ymax": 1044
+        },
+        {
+          "text": "de",
+          "xmin": 448,
+          "ymin": 1017,
+          "xmax": 485,
+          "ymax": 1044
+        },
+        {
+          "text": "bem-estar",
+          "xmin": 497,
+          "ymin": 1016,
+          "xmax": 659,
+          "ymax": 1043
+        },
+        {
+          "text": "(",
+          "xmin": 356,
+          "ymin": 1089,
+          "xmax": 364,
+          "ymax": 1113
+        },
+        {
+          "text": "I",
+          "xmin": 401,
+          "ymin": 1087,
+          "xmax": 408,
+          "ymax": 1115
+        },
+        {
+          "text": "Muito",
+          "xmin": 424,
+          "ymin": 1087,
+          "xmax": 523,
+          "ymax": 1115
+        },
+        {
+          "text": "alto",
+          "xmin": 537,
+          "ymin": 1088,
+          "xmax": 596,
+          "ymax": 1114
+        },
+        {
+          "text": "(",
+          "xmin": 631,
+          "ymin": 1091,
+          "xmax": 637,
+          "ymax": 1108
+        },
+        {
+          "text": "|",
+          "xmin": 676,
+          "ymin": 1087,
+          "xmax": 682,
+          "ymax": 1115
+        },
+        {
+          "text": "Alto",
+          "xmin": 699,
+          "ymin": 1087,
+          "xmax": 770,
+          "ymax": 1115
+        },
+        {
+          "text": "(",
+          "xmin": 805,
+          "ymin": 1092,
+          "xmax": 810,
+          "ymax": 1108
+        },
+        {
+          "text": ")",
+          "xmin": 850,
+          "ymin": 1087,
+          "xmax": 858,
+          "ymax": 1115
+        },
+        {
+          "text": "Regular",
+          "xmin": 874,
+          "ymin": 1087,
+          "xmax": 1003,
+          "ymax": 1125
+        },
+        {
+          "text": "(",
+          "xmin": 1037,
+          "ymin": 1091,
+          "xmax": 1043,
+          "ymax": 1111
+        },
+        {
+          "text": "|",
+          "xmin": 1082,
+          "ymin": 1087,
+          "xmax": 1088,
+          "ymax": 1115
+        },
+        {
+          "text": "Baixo",
+          "xmin": 1105,
+          "ymin": 1087,
+          "xmax": 1203,
+          "ymax": 1115
+        },
+        {
+          "text": "(",
+          "xmin": 1237,
+          "ymin": 1091,
+          "xmax": 1243,
+          "ymax": 1111
+        },
+        {
+          "text": ")",
+          "xmin": 1282,
+          "ymin": 1087,
+          "xmax": 1291,
+          "ymax": 1115
+        },
+        {
+          "text": "Muito",
+          "xmin": 1304,
+          "ymin": 1087,
+          "xmax": 1403,
+          "ymax": 1115
+        },
+        {
+          "text": "baixo",
+          "xmin": 1416,
+          "ymin": 1087,
+          "xmax": 1504,
+          "ymax": 1115
+        },
+        {
+          "text": "Ocorrencia",
+          "xmin": 355,
+          "ymin": 1160,
+          "xmax": 537,
+          "ymax": 1189
+        },
+        {
+          "text": "de",
+          "xmin": 550,
+          "ymin": 1160,
+          "xmax": 586,
+          "ymax": 1189
+        },
+        {
+          "text": "maus",
+          "xmin": 600,
+          "ymin": 1169,
+          "xmax": 685,
+          "ymax": 1189
+        },
+        {
+          "text": "S-tratos",
+          "xmin": 679,
+          "ymin": 1165,
+          "xmax": 788,
+          "ymax": 1188
+        },
+        {
+          "text": "(",
+          "xmin": 356,
+          "ymin": 1232,
+          "xmax": 364,
+          "ymax": 1255
+        },
+        {
+          "text": ")",
+          "xmin": 401,
+          "ymin": 1231,
+          "xmax": 408,
+          "ymax": 1258
+        },
+        {
+          "text": "Configura",
+          "xmin": 424,
+          "ymin": 1231,
+          "xmax": 590,
+          "ymax": 1268
+        },
+        {
+          "text": "maus-tratos",
+          "xmin": 603,
+          "ymin": 1235,
+          "xmax": 793,
+          "ymax": 1259
+        },
+        {
+          "text": "(",
+          "xmin": 808,
+          "ymin": 1232,
+          "xmax": 817,
+          "ymax": 1258
+        },
+        {
+          "text": "baixo",
+          "xmin": 815,
+          "ymin": 1231,
+          "xmax": 910,
+          "ymax": 1261
+        },
+        {
+          "text": "e",
+          "xmin": 925,
+          "ymin": 1240,
+          "xmax": 937,
+          "ymax": 1258
+        },
+        {
+          "text": "muito",
+          "xmin": 955,
+          "ymin": 1231,
+          "xmax": 1047,
+          "ymax": 1260
+        },
+        {
+          "text": "baixo",
+          "xmin": 1062,
+          "ymin": 1231,
+          "xmax": 1151,
+          "ymax": 1260
+        },
+        {
+          "text": "|",
+          "xmin": 1155,
+          "ymin": 1233,
+          "xmax": 1161,
+          "ymax": 1256
+        },
+        {
+          "text": "(",
+          "xmin": 356,
+          "ymin": 1304,
+          "xmax": 363,
+          "ymax": 1322
+        },
+        {
+          "text": "I",
+          "xmin": 401,
+          "ymin": 1301,
+          "xmax": 408,
+          "ymax": 1329
+        },
+        {
+          "text": "Nao",
+          "xmin": 423,
+          "ymin": 1301,
+          "xmax": 490,
+          "ymax": 1329
+        },
+        {
+          "text": "configura",
+          "xmin": 504,
+          "ymin": 1301,
+          "xmax": 661,
+          "ymax": 1339
+        },
+        {
+          "text": "maus",
+          "xmin": 674,
+          "ymin": 1310,
+          "xmax": 759,
+          "ymax": 1330
+        },
+        {
+          "text": "S-tratos",
+          "xmin": 753,
+          "ymin": 1305,
+          "xmax": 865,
+          "ymax": 1328
+        },
+        {
+          "text": "mas",
+          "xmin": 889,
+          "ymin": 1310,
+          "xmax": 952,
+          "ymax": 1330
+        },
+        {
+          "text": "precisa",
+          "xmin": 965,
+          "ymin": 1301,
+          "xmax": 1081,
+          "ymax": 1338
+        },
+        {
+          "text": "de",
+          "xmin": 1094,
+          "ymin": 1302,
+          "xmax": 1132,
+          "ymax": 1329
+        },
+        {
+          "text": "recomendacoes",
+          "xmin": 1144,
+          "ymin": 1301,
+          "xmax": 1398,
+          "ymax": 1337
+        },
+        {
+          "text": "e",
+          "xmin": 1411,
+          "ymin": 1310,
+          "xmax": 1425,
+          "ymax": 1326
+        },
+        {
+          "text": "retorno",
+          "xmin": 1440,
+          "ymin": 1305,
+          "xmax": 1557,
+          "ymax": 1329
+        },
+        {
+          "text": "(regular",
+          "xmin": 1572,
+          "ymin": 1301,
+          "xmax": 1701,
+          "ymax": 1337
+        },
+        {
+          "text": "*",
+          "xmin": 1701,
+          "ymin": 1307,
+          "xmax": 1709,
+          "ymax": 1325
+        },
+        {
+          "text": "(",
+          "xmin": 356,
+          "ymin": 1374,
+          "xmax": 364,
+          "ymax": 1398
+        },
+        {
+          "text": ")",
+          "xmin": 401,
+          "ymin": 1373,
+          "xmax": 408,
+          "ymax": 1400
+        },
+        {
+          "text": "Nao",
+          "xmin": 424,
+          "ymin": 1372,
+          "xmax": 490,
+          "ymax": 1400
+        },
+        {
+          "text": "configura",
+          "xmin": 504,
+          "ymin": 1372,
+          "xmax": 661,
+          "ymax": 1410
+        },
+        {
+          "text": "maus-tratos",
+          "xmin": 674,
+          "ymin": 1376,
+          "xmax": 865,
+          "ymax": 1399
+        },
+        {
+          "text": "e",
+          "xmin": 878,
+          "ymin": 1381,
+          "xmax": 891,
+          "ymax": 1398
+        },
+        {
+          "text": "nao",
+          "xmin": 907,
+          "ymin": 1374,
+          "xmax": 965,
+          "ymax": 1400
+        },
+        {
+          "text": "precisa",
+          "xmin": 977,
+          "ymin": 1373,
+          "xmax": 1093,
+          "ymax": 1406
+        },
+        {
+          "text": "de",
+          "xmin": 1106,
+          "ymin": 1372,
+          "xmax": 1143,
+          "ymax": 1400
+        },
+        {
+          "text": "retorno",
+          "xmin": 1155,
+          "ymin": 1376,
+          "xmax": 1274,
+          "ymax": 1400
+        },
+        {
+          "text": "(",
+          "xmin": 1288,
+          "ymin": 1374,
+          "xmax": 1295,
+          "ymax": 1393
+        },
+        {
+          "text": "alto",
+          "xmin": 1297,
+          "ymin": 1372,
+          "xmax": 1359,
+          "ymax": 1400
+        },
+        {
+          "text": "e",
+          "xmin": 1373,
+          "ymin": 1381,
+          "xmax": 1387,
+          "ymax": 1398
+        },
+        {
+          "text": "muito",
+          "xmin": 1402,
+          "ymin": 1373,
+          "xmax": 1496,
+          "ymax": 1400
+        },
+        {
+          "text": "alto",
+          "xmin": 1510,
+          "ymin": 1372,
+          "xmax": 1568,
+          "ymax": 1400
+        },
+        {
+          "text": "-",
+          "xmin": 1570,
+          "ymin": 1373,
+          "xmax": 1580,
+          "ymax": 1399
+        },
+        {
+          "text": "Ocorrencia",
+          "xmin": 355,
+          "ymin": 1434,
+          "xmax": 537,
+          "ymax": 1463
+        },
+        {
+          "text": "de",
+          "xmin": 550,
+          "ymin": 1435,
+          "xmax": 586,
+          "ymax": 1463
+        },
+        {
+          "text": "abuso.",
+          "xmin": 601,
+          "ymin": 1434,
+          "xmax": 704,
+          "ymax": 1463
+        },
+        {
+          "text": "maus-tratos",
+          "xmin": 718,
+          "ymin": 1438,
+          "xmax": 908,
+          "ymax": 1462
+        },
+        {
+          "text": ":",
+          "xmin": 923,
+          "ymin": 1443,
+          "xmax": 934,
+          "ymax": 1461
+        },
+        {
+          "text": "crueldade,",
+          "xmin": 952,
+          "ymin": 1434,
+          "xmax": 1121,
+          "ymax": 1463
+        },
+        {
+          "text": "considerando",
+          "xmin": 1134,
+          "ymin": 1434,
+          "xmax": 1354,
+          "ymax": 1463
+        },
+        {
+          "text": "a",
+          "xmin": 1368,
+          "ymin": 1443,
+          "xmax": 1381,
+          "ymax": 1461
+        },
+        {
+          "text": "responsabilidade",
+          "xmin": 1395,
+          "ymin": 1434,
+          "xmax": 1672,
+          "ymax": 1470
+        },
+        {
+          "text": "da",
+          "xmin": 1686,
+          "ymin": 1435,
+          "xmax": 1724,
+          "ymax": 1463
+        },
+        {
+          "text": "guarda",
+          "xmin": 1738,
+          "ymin": 1435,
+          "xmax": 1847,
+          "ymax": 1469
+        },
+        {
+          "text": "dos",
+          "xmin": 1860,
+          "ymin": 1434,
+          "xmax": 1916,
+          "ymax": 1463
+        },
+        {
+          "text": "animais",
+          "xmin": 1930,
+          "ymin": 1434,
+          "xmax": 2055,
+          "ymax": 1463
+        },
+        {
+          "text": "(",
+          "xmin": 356,
+          "ymin": 1484,
+          "xmax": 364,
+          "ymax": 1507
+        },
+        {
+          "text": "(parecer",
+          "xmin": 362,
+          "ymin": 1482,
+          "xmax": 490,
+          "ymax": 1516
+        },
+        {
+          "text": "tecnico",
+          "xmin": 503,
+          "ymin": 1483,
+          "xmax": 619,
+          "ymax": 1510
+        },
+        {
+          "text": "|",
+          "xmin": 624,
+          "ymin": 1485,
+          "xmax": 629,
+          "ymax": 1506
+        }
+      ],
+      "raw_text": "50. .A rotina do animal permite que tenha contato com pessoas alem do responsavel? ( Sim ) Nao 51. . animal tem chance de pastejar? ( | Sim 1 ) Nao 52. Evidencia de comportamentos agonisticos (brigas | ( ) Sim ( ) Nao 53. Tentativa de fuga do local | em que se encontra ( ) Sim ( Nao Observacdes Parecer referente ao comportamento ( | Inadequado ( ) Regular ( I 1 Adequado Diagnostico geral Inadequacao de quais conjuntos de indicadores ( ) Nutricionais ( ) Ambientais ( ) De saude ( | Comportamentais Grau de bem-estar ( I Muito alto ( | Alto ( ) Regular ( | Baixo ( ) Muito baixo Ocorrencia de maus S-tratos ( ) Configura maus-tratos ( baixo e muito baixo | ( I Nao configura maus S-tratos mas precisa de recomendacoes e retorno (regular * ( ) Nao configura maus-tratos e nao precisa de retorno ( alto e muito alto - Ocorrencia de abuso. maus-tratos : crueldade, considerando a responsabilidade da guarda dos animais ( (parecer tecnico | "
+    }
+  ]
+}

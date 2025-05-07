@@ -1,0 +1,35 @@
+@startuml
+left to right direction
+actor Perito as fc
+usecase "RF001 - Visualizar perícias" as RF001
+usecase "RF002 - Imprimir check-list de perícia" as RF030
+usecase "RF003 - Preencher informações sobre a  perícia" as RF014
+usecase "RF004 - Reponder questionário da perícia" as RF013
+usecase "RF005 - Geolocalizar o endereço da perícia a partir preenchimento do endereço" as RF012
+usecase "RF006 - Validar dados do questionário" as RF011
+usecase "RF007 - Validar correção ortográfica das informações do questionário" as RF010
+usecase "RF008 - Cadastrar documentos anéxos à perícia" as RF009
+usecase "RF009 - Otimizar imagens e é vídeo anexados à perícia" as RF008
+usecase "RF010 - Obter geolocalização e data das imagens enviadas" as RF007
+usecase "RF011 - Cadastrar e manter indivíduos da perícia" as RF006
+usecase "RF012 - Relacionar indivíduos aos respectivos PPBEA previamente preenchidos" as RF005
+usecase "RF013 - Solicitar ao gestor alteração de data-limite da formalização da perícia" as RF004
+usecase "RF014 - Visualizar texto da perícia preenchido" as RF003
+usecase "RF030 - Cadastrar, calcular e manter Protocolo de Perícia em Bem-Estar Animal (PPBEA)" as RF002
+
+fc --> RF001
+fc --> RF002
+fc --> RF003
+fc --> RF004
+fc --> RF005
+fc --> RF006
+fc --> RF007
+fc --> RF008
+fc --> RF009
+fc --> RF010
+fc --> RF011
+fc --> RF012
+fc --> RF013
+fc --> RF014
+fc --> RF030
+@enduml

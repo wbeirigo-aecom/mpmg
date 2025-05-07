@@ -1,0 +1,21 @@
+@startsalt  pesquisa
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Cadastrar cabeçalho das perícias
+header MPMG
+caption Sistema de Perícia MPMG
+{
+
+    Cabeçalho | "                       "
+    . | "                       "
+    . | "                       "
+    . | "                       "
+    .
+    {[Salvar] | [Cancelar] }
+    .
+}
+@endsalt

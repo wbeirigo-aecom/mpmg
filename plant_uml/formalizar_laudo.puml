@@ -1,0 +1,94 @@
+
+' @startsalt
+' <style>
+' saltDiagram {
+'   BackgroundColor #f6f6f5
+' }
+' </style>
+' skinparam dpi 300
+' title Formalizar Laudo
+' header AECOM
+' footer Sistema de Perícia MPMG|
+' caption CoE AECOM
+' {<color:red>
+'     {
+'         {^ **Informações Gerais**
+'             .
+'             {^**Laudo:**
+'             **2323-25**
+'             }
+
+'             {^**informações do laudo**
+'             **Descrição**: consectetur adipiscing elit, sed do eiusmod
+'             .
+'             **Tema**: Lorem ipsum dolor sit amet | **Status**: eiusmod tempor
+'             .
+'             **Data de Cadastro**: 01/04/2025 | <color:red>**Data limite**: 02/05/2025
+'             .
+
+'             **Localização**: consectetur - adipiscing - el. |  **Última alteração**: 28/03/2025 20:35
+'             }
+'             .
+'             {^ **Peritos**
+'             35435345 - Lorem ipsum dolor sit amet
+'             3332232  - Lorem ipsum dolor sit amet
+'             }
+'             .
+'             {^ **Ocorrência:** * | "dd/mm/yyyy"}
+'             }
+'             .
+'             {^ **Denunciado:**
+                  .
+'                 ***Nome**  | Lorem ipsum dolor sit amet
+                  .
+'                 ***CPF**   | 999.999.999-99
+                  .
+'                 **Observações**   | Lorem ipsum dolor sit amet
+'                 . | Lorem ipsum dolor sit amet
+'                 . | Lorem ipsum dolor sit amet
+'                 .
+                  .
+'             }
+'             .
+
+'         }
+
+'         {^**Erros**
+
+'             **01** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+'             .
+'             **02** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+'             .
+'             **03** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+'             .
+'             **04** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+'             .
+'             **05** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+'             .
+'             **06** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+
+'             **07** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+'             .
+'             **08** - <color:red>[Lorem ipsum dolor] <color:black> sit amet, consectetur adipiscing elit, sed do eiusmod
+'             .
+'         }
+'         .
+'         {  [Cancelar]}
+'         .
+'         .
+'         .
+'         .
+'         .
+'         .
+'         {^**Erros**
+'             **Não existem erros**
+'             .
+'             .
+'         }
+'         .
+'         { [Salvar] | [Cancelar]}
+
+
+
+' }
+' @endsalt

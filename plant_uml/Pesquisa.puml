@@ -1,0 +1,24 @@
+@startsalt  pesquisa
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Pesquisa
+header AECOM
+footer Sistema de Perícia MPMG
+caption CoE AECOM
+{
+    {Nome| "              " | [Buscar] | [Cancelar]}
+    {+
+    .
+        {#
+        Id | Nome | Ações
+            423| Lorem ipsum dolor sit amet | [Selecionar]
+            985 | Lorem ipsum dolor sit amet | [Selecionar]
+        }
+    .
+    }   .
+}
+@endsalt

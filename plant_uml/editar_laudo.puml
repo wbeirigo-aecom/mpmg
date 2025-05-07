@@ -1,0 +1,143 @@
+
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Preencher informações sobre a perícia
+header MPMG
+caption Sistema de Perícia MPMG
+{<color:red>
+    {
+        {^ **Informações Gerais**
+            .
+            {^**Perícia:**
+            **2323-25**
+            }
+
+            {^**Informações da Perícia**
+            **Descrição**: consectetur adipiscing elit, sed do eiusmod
+            .
+            **Tema**: Lorem ipsum dolor sit amet | **Status**: eiusmod tempor
+            .
+            **Data de Cadastro**: 01/04/2025 | <color:red>**Data limite**: 02/05/2025
+            .
+
+            . |  **Última alteração**: 28/03/2025 20:35
+            }
+            .
+            {^ **Perito(s)**
+            35435345 - Lorem ipsum dolor sit amet
+            3332232  - Lorem ipsum dolor sit amet
+            }
+            .
+            {^ **Data da Perícia:** * | "dd/mm/yyyy     "}
+            .
+            {^ **Denunciado:**
+                ***Nome**  | "                     "
+                ***CPF/CNPJ**   | "         "
+                **Obervações**   | "                               "
+                . | "                               "
+                . | "                               "
+                .
+            }
+
+            .
+
+        {^**Local**
+            Município|"         "
+            Distrito|"      "
+            CEP| "99.999-000"
+            [Geolocalizar]
+            Lat | "-99.99999"
+            Long |"-99.99999"
+            Observações|"            "
+        }
+
+        }
+        }
+
+        .
+        {^**Questionário Principal**:
+            .
+            {#
+                Descrição                                                    | Resposta  | Ortográfico
+                orem ipsum dolor sit amet, consectetur adipiscing elit       | <color:green><&check>  | <color:red><&x>
+                orem ipsum dolor sit amet, consectetur adipiscing elit       | <color:red><&x>      | _
+                orem ipsum dolor sit amet, consectetur adipiscing elit       | <color:green><&check>  |<color:green><&check>
+            }
+            .
+            [ Responder Questionário]
+        }
+        .
+        {^ **Referências Bibliográficas**
+            .
+            {#
+                Identificação | Tipo       | Fonte       | Descrição   | Link
+                Q020_ABI      | Lei        | MAPA        | value 1     | htts://exemple.com.br/3409238uywqew
+                Q087_GKS      | Reportagem | IBGE        | A long cell | htts://exemple.com.br/3409238uywqew
+            }
+            .
+            [ Adicionar Referência]
+        }
+        .
+        {^**Documentos Anexos:**
+            .
+            {#
+                Identificação | Tipo       | Descrição   | Link
+                Q020_ABI      | Imagem     | value 1     | htts://exemple.com.br/3409238uywqew
+                Q087_GKS      | PDF        | A long cell | htts://exemple.com.br/3409238uywqew
+                Vídeo         | Vídeo      | sdsds       | htts://exemple.com.br/3409238uywqew
+            }
+            .
+            [ Adicionar Documento]
+        }
+        .
+        {^ **Indivíduos**:
+            .
+            {#
+                Identificação | Espécie    | Sexo        | Observações
+                AQW45EO       | Bovino     | value 1     | uywqew
+                Q087_GKS      | Cão        | A long cell | uywqew
+                Vídeo         | Gato       | sdsds       | 3409238uywqew
+            }
+            .
+            [ Adicionar Individuos]
+        }
+        .
+        {^ **Questionário PPBEA:**
+            .
+            {#
+                Indivíduo     | Nome              | Nota | Anexo
+                AQW45EO       | dolore magna      | AAA  | htts://exemple.com.br/3409238uywqew
+                Q087_GKS      | dolore magna      | AB-  | htts://exemple.com.br/3409238uywqew
+                Vídeo         | dolore magna      | B-   | htts://exemple.com.br/3409238uywqew
+            }
+            .
+            [ Adicionar Questionário PPBEA]
+        }
+        .
+        {^**Template**
+        .
+        Perícia @descricao sdasdas
+
+        Citações:
+        @Q020_ABI
+        @Q087_GKS
+
+        Perícia realizada no município @municipio, distrito de @distrito.
+
+        Questionário:
+
+        @questionário
+        .
+        .
+        [Correção Ortográfica] | [Visualização do laudo]
+        }
+    }
+    .
+    [Salvar] | [Cancelar]
+}
+@endsalt

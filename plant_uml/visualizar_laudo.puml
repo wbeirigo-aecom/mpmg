@@ -1,0 +1,91 @@
+
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 300
+title Visualizar texto preenchido do laudo pericial
+header MPMG
+caption Sistema de Perícia MPMG
+{<color:red>
+    {
+        {^ **Informações Gerais**
+            .
+            {^**Perícia:**
+            **2323-25**
+            }
+
+            {^**Informações da Perícia**
+            **Descrição**: consectetur adipiscing elit, sed do eiusmod
+            .
+            **Tema**: Lorem ipsum dolor sit amet | **Status**: eiusmod tempor
+            .
+            **Data de Cadastro**: 01/04/2025 | <color:red>**Data limite**: 02/05/2025
+            .
+
+            **Localização**: consectetur - adipiscing - el. |  **Última alteração**: 28/03/2025 20:35
+            }
+            .
+            {^ **Perito(s)**
+            35435345 - Lorem ipsum dolor sit amet
+            3332232  - Lorem ipsum dolor sit amet
+            }
+            .
+            **Data da Perícia**: "dd/mm/yyyy"
+            .
+            }
+            .
+                        .
+            {^ **Denunciado:**
+                ***Nome**  | "                     "
+                ***CPF/CNPJ**   | "       "
+                **Observações**   | "                           "
+                . | "                               "
+                . | "                               "
+                .
+            }
+            .
+        }
+
+        {^**Texto**
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+            dolore eu fugiat nulla pariatur.
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+            deserunt mollit anim id est laborum.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+            dolore eu fugiat nulla pariatur.
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+            deserunt mollit anim id est laborum.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+            dolore eu fugiat nulla pariatur.
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+            deserunt mollit anim id est laborum.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+            dolore eu fugiat nulla pariatur.
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+            deserunt mollit anim id est laborum.
+        }
+        .
+        { [Cancelar]}
+
+
+}
+@endsalt

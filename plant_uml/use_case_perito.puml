@@ -1,0 +1,32 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor Perito as perito
+rectangle MPMG {
+    USECASE "**RF004** - Cadastrar e manter citações" as RF004
+    USECASE "**RF006** - Imprimir check-list" as RF006
+    USECASE "**RF007** - Editorar laudo" as RF007
+    USECASE "**RF009** - Visualizar laudo para aprovação" as RF009
+    USECASE "**RF011** - Enviar  Alertas" as RF011
+    USECASE "RF012 -  Aplicativo para groreferenciamento" as RF012
+    USECASE "RF015 -  Página contendo links úteis" as RF015
+    USECASE "RF017 -  Campo para anexar aceites recusas,honorário e notas fiscais" as RF017
+    USECASE "RF018 -  Emissão de nota de recibo de RPA" as RF018
+    USECASE "RF019 -  Assinatura digital via gov.br" as RF019
+    USECASE "RF020 -  Pàgina contendo laudos antigos como referência" as RF020
+}
+sistema --> RF011
+perito --> RF004
+perito --> RF006
+perito --> RF007
+perito --> RF009
+perito --> RF012
+perito --> RF015
+perito --> RF017
+perito --> RF018
+perito --> RF019
+perito --> RF020
+}
+@enduml
+
+

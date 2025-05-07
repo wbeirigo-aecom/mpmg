@@ -1,0 +1,39 @@
+@startuml
+left to right direction
+actor Administrador as fc
+
+usecase "RF001 - Visualizar perícias" as RF027
+usecase "RF014 - Visualizar texto da perícia preenchido" as RF026
+usecase "RF015 - Marcar perícia como aguardando validação" as RF025
+usecase "RF016 - Cadastrar e manter questionários" as RF024
+usecase "RF017 - Cadastrar e manter temas" as RF023
+usecase "RF018 - Cadastrar e manter peritos" as RF022
+usecase "RF019 - Solicitar ao perito a realização da perícia" as RF021
+usecase "RF020 - Marcar pericía como validada" as RF020
+usecase "RF021 - Alterar data-limite de formalização da perícia" as RF019
+usecase "RF022 - Gerar documento da perícia em PDF" as RF018
+usecase "RF023 - Garanrir formação ABNT para as perícias em PDF" as RF017
+usecase "RF024 - Enviar alertas por e-mail" as RF016
+usecase "RF025 - Mapa dos locais da perícia" as RF015
+usecase "RF026 - Pàgina contendo perícias antigas como referência" as RF014
+usecase "RF027 - Padronização do cabeçalho de documentos de perícia" as RF001
+usecase "RF028 - Gerar aerquivo em Excel para emitir dashboard em PowerBI" as RF028
+usecase "RF029 - Página contendo links úteis" as RF029
+fc --> RF001
+fc --> RF014
+fc --> RF015
+fc --> RF016
+fc --> RF017
+fc --> RF018
+fc --> RF019
+fc --> RF020
+fc --> RF021
+fc --> RF022
+fc --> RF023
+fc --> RF024
+fc --> RF025
+fc --> RF026
+fc --> RF027
+fc --> RF028
+fc --> RF029
+@enduml

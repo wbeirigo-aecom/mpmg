@@ -1,0 +1,13 @@
+@startuml
+!theme mars
+[*] --> Perícia_Em_Elaboração: Solicitação de Perícia
+Perícia_Em_Elaboração --> Perícia_Em_Revisão: Encaminha para Revisão
+Perícia_Em_Revisão --> Perícia_Em_Elaboração: Revisão Realizada
+Perícia_Em_Elaboração --> Aguardando_Alteração_Data_Aprovação: Solicita Alteração de data-limite da aprovação
+Aguardando_Alteração_Data_Aprovação --> Perícia_Em_Elaboração: Data da aprovação Alterada
+Perícia_Em_Elaboração --> Aguardando_Aprovação: Solicita Aprovação
+Aguardando_Aprovação--> Perícia_Aprovada: Data da aprovação Alterada
+Perícia_Aprovada --> PDF_Oficial: Geração do PDF Oficial Emitido
+PDF_Oficial --> [*] :  end
+@endum
+@enduml

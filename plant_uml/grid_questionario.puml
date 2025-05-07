@@ -1,0 +1,23 @@
+@startsalt
+<style>
+saltDiagram {
+  BackgroundColor #f6f6f5
+}
+</style>
+skinparam dpi 100
+title Grid de Questionários
+header MPMG
+caption Sistema de Perícia MPMG
+{
+    [Novo Questionário]
+    {#
+    **ID** | **Nome** |  **Tema** | **Ações**
+    00120 | Lorem ipsum   | incididunt ut labore | { [Editar] | [Excluir] }
+    00120 | Lorem ipsum   | incididunt ut labore |{ [Editar] | [Excluir] }
+    00120 | Lorem ipsum   | incididunt ut labore |{ [Editar] | [Excluir] }
+    00120 | Lorem ipsum   | incididunt ut labore |{ [Editar] | [Excluir] }
+    }
+    .
+    .
+}
+@endsalt

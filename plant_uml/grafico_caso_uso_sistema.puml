@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+actor Administrador as fc
+
+usecase "RF024 - Enviar alertas por e-mail" as RF024
+fc --> RF024
+
+@enduml
